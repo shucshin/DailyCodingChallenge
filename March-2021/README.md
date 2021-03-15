@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 10
 March 2021
 
 CodeForces
@@ -12,3 +12,7 @@ CodeForces
 HackerRank
 -----------------
 1. [Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)
+1. [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/)
+1. [Arraylist](https://www.hackerrank.com/challenges/java-arraylist/)
+1. [Substring](https://www.hackerrank.com/challenges/java-substring/)
+1. [Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/)
