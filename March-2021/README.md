@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 15
 March 2021
 
 CodeForces
@@ -8,6 +8,11 @@ CodeForces
 1. [Team](https://codeforces.com/problemset/problem/231/A)
 1. [Next Round](https://codeforces.com/problemset/problem/158/A)
 1. [Domino piling](https://codeforces.com/problemset/problem/50/A)
+1. [Bit++](https://codeforces.com/problemset/problem/282/A)
+1. [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
+1. [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
+1. [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
+1. [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
 
 HackerRank
 -----------------
