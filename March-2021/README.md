@@ -1,4 +1,4 @@
-# Problems Solved :: 15
+# Problems Solved :: 16
 March 2021
 
 CodeForces
@@ -21,3 +21,7 @@ HackerRank
 1. [Arraylist](https://www.hackerrank.com/challenges/java-arraylist/)
 1. [Substring](https://www.hackerrank.com/challenges/java-substring/)
 1. [Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/)
+
+LeetCode
+-----------------
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
