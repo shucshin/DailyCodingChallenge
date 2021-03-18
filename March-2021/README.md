@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 24
 March 2021
 
 CodeForces
@@ -13,6 +13,8 @@ CodeForces
 1. [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
 1. [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
 1. [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+1. [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
+1. [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 
 HackerRank
 -----------------
@@ -29,3 +31,8 @@ LeetCode
 1. [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
 1. [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
 1. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+
+Contests
+-----------------
+1. [Domino on Windowsill](https://codeforces.com/contest/1499/problem/A)
+1. [Binary Removals](https://codeforces.com/contest/1499/problem/B)
