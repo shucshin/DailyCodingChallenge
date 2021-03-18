@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 20
 March 2021
 
 CodeForces
@@ -27,3 +27,5 @@ LeetCode
 1. [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
 1. [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
 1. [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)
+1. [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
+1. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
