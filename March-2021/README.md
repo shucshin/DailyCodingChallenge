@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 27
 March 2021
 
 CodeForces
@@ -23,6 +23,9 @@ HackerRank
 1. [Arraylist](https://www.hackerrank.com/challenges/java-arraylist/)
 1. [Substring](https://www.hackerrank.com/challenges/java-substring/)
 1. [Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/)
+1. [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/)
+1. [Anagrams](https://www.hackerrank.com/challenges/java-anagrams/)
+1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/)
 
 LeetCode
 -----------------
