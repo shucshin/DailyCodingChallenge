@@ -1,4 +1,4 @@
-# Problems Solved :: 27
+# Problems Solved :: 34
 March 2021
 
 CodeForces
@@ -15,6 +15,13 @@ CodeForces
 1. [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
 1. [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
 1. [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
+1. [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)
+1. [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
+1. [Wrong Substraction](https://codeforces.com/problemset/problem/977/A)
+1. [Elephant](https://codeforces.com/problemset/problem/617/A)
+1. [Tram](https://codeforces.com/problemset/problem/116/A)
+1. [Word](https://codeforces.com/problemset/problem/59/A)
+1. [Queue at the School](https://codeforces.com/contest/266/problem/B)
 
 HackerRank
 -----------------
