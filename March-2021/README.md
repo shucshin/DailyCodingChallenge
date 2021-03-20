@@ -1,4 +1,4 @@
-# Problems Solved :: 34
+# Problems Solved :: 35
 March 2021
 
 CodeForces
@@ -46,3 +46,4 @@ Contests
 -----------------
 1. [Domino on Windowsill](https://codeforces.com/contest/1499/problem/A)
 1. [Binary Removals](https://codeforces.com/contest/1499/problem/B)
+1. [Second Largest Digit in a String](https://leetcode.com/contest/biweekly-contest-48/problems/second-largest-digit-in-a-string/)
