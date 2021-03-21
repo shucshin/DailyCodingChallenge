@@ -1,4 +1,4 @@
-# Problems Solved :: 35
+# Problems Solved :: 36
 March 2021
 
 CodeForces
@@ -33,6 +33,7 @@ HackerRank
 1. [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/)
 1. [Anagrams](https://www.hackerrank.com/challenges/java-anagrams/)
 1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/)
+1. [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/)
 
 LeetCode
 -----------------
