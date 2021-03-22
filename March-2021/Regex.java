@@ -13,5 +13,6 @@ public class Regex {
 }
 
 class MyRegex {
-    
+    String regex255 = "([0-9]|[0-9][0-9]|[0-1][0-9][0-9]|2[0-4][0-9]|25[0-5])";
+    String pattern = String.format("%s.%s.%s.%s", regex255,regex255,regex255,regex255);
 }

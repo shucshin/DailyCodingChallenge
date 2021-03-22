@@ -1,4 +1,4 @@
-# Problems Solved :: 39
+# Problems Solved :: 41
 March 2021
 
 CodeForces
@@ -35,6 +35,7 @@ HackerRank
 1. [Anagrams](https://www.hackerrank.com/challenges/java-anagrams/)
 1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/)
 1. [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/)
+1. [Regex](https://www.hackerrank.com/challenges/java-regex/)
 
 LeetCode
 -----------------
@@ -44,6 +45,7 @@ LeetCode
 1. [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)
 1. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 1. [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)
+1. [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
 
 Contests
 -----------------
