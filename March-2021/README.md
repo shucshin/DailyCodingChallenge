@@ -1,4 +1,4 @@
-# Problems Solved :: 42
+# Problems Solved :: 43
 March 2021
 
 CodeForces
@@ -24,6 +24,7 @@ CodeForces
 1. [Queue at the School](https://codeforces.com/contest/266/problem/B)
 1. [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
 1. [Translation](https://codeforces.com/problemset/problem/41/A)
+1. [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
 
 HackerRank
 -----------------
