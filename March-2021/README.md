@@ -1,4 +1,4 @@
-# Problems Solved :: 44
+# Problems Solved :: 47
 March 2021
 
 CodeForces
@@ -26,6 +26,9 @@ CodeForces
 1. [Translation](https://codeforces.com/problemset/problem/41/A)
 1. [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
 1. [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
+1. [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
+1. [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
+1. [Presents](https://codeforces.com/problemset/problem/136/A)
 
 HackerRank
 -----------------
