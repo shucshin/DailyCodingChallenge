@@ -1,4 +1,4 @@
-# Problems Solved :: 43
+# Problems Solved :: 44
 March 2021
 
 CodeForces
@@ -25,6 +25,7 @@ CodeForces
 1. [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)
 1. [Translation](https://codeforces.com/problemset/problem/41/A)
 1. [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
+1. [Beautiful Year](https://codeforces.com/problemset/problem/271/A)
 
 HackerRank
 -----------------
