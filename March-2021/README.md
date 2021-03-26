@@ -1,4 +1,4 @@
-# Problems Solved :: 48
+# Problems Solved :: 49
 March 2021
 
 CodeForces
@@ -30,6 +30,7 @@ CodeForces
 1. [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
 1. [Presents](https://codeforces.com/problemset/problem/136/A)
 1. [Magnets](https://codeforces.com/problemset/problem/344/A)
+1. [Football](https://codeforces.com/problemset/problem/96/A)
 
 HackerRank
 -----------------
