@@ -1,4 +1,4 @@
-# Problems Solved :: 50
+# Problems Solved :: 51
 March 2021
 
 CodeForces
@@ -55,6 +55,7 @@ LeetCode
 1. [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 1. [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/)
 1. [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/)
+1. [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
 
 Contests
 -----------------
