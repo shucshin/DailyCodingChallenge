@@ -1,4 +1,4 @@
-# Problems Solved :: 53
+# Problems Solved :: 54
 March 2021
 
 CodeForces
@@ -32,6 +32,7 @@ CodeForces
 1. [Magnets](https://codeforces.com/problemset/problem/344/A)
 1. [Football](https://codeforces.com/problemset/problem/96/A)
 1. [Twins](https://codeforces.com/problemset/problem/160/A)
+1. [HQ9+](https://codeforces.com/problemset/problem/133/A)
 
 HackerRank
 -----------------
