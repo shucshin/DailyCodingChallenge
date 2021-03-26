@@ -1,4 +1,4 @@
-# Problems Solved :: 54
+# Problems Solved :: 55
 March 2021
 
 CodeForces
@@ -33,6 +33,7 @@ CodeForces
 1. [Football](https://codeforces.com/problemset/problem/96/A)
 1. [Twins](https://codeforces.com/problemset/problem/160/A)
 1. [HQ9+](https://codeforces.com/problemset/problem/133/A)
+1. [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)
 
 HackerRank
 -----------------
