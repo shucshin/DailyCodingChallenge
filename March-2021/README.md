@@ -1,4 +1,4 @@
-# Problems Solved :: 58
+# Problems Solved :: 59
 March 2021
 
 CodeForces
@@ -36,6 +36,7 @@ CodeForces
 1. [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)
 1. [Even Odds](https://codeforces.com/problemset/problem/318/A)
 1. [Gravity Flip](https://codeforces.com/problemset/problem/405/A)
+1. [Theatre Square](https://codeforces.com/problemset/problem/1/A)
 
 HackerRank
 -----------------
