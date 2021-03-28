@@ -1,4 +1,4 @@
-# Problems Solved :: 59
+# Problems Solved :: 62
 March 2021
 
 CodeForces
@@ -37,6 +37,7 @@ CodeForces
 1. [Even Odds](https://codeforces.com/problemset/problem/318/A)
 1. [Gravity Flip](https://codeforces.com/problemset/problem/405/A)
 1. [Theatre Square](https://codeforces.com/problemset/problem/1/A)
+1. [Dubstep](https://codeforces.com/problemset/problem/208/A)
 
 HackerRank
 -----------------
@@ -50,7 +51,9 @@ HackerRank
 1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/)
 1. [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/)
 1. [Regex](https://www.hackerrank.com/challenges/java-regex/)
-1. [Dubstep](https://codeforces.com/problemset/problem/208/A)
+1. [Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/)
+1. [Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/)
+1. [Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/)
 
 LeetCode
 -----------------
