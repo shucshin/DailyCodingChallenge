@@ -1,4 +1,4 @@
-# Problems Solved :: 62
+# Problems Solved :: 63
 March 2021
 
 CodeForces
@@ -67,6 +67,7 @@ LeetCode
 1. [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/)
 1. [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)
 1. [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)
+1. [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)
 
 Contests
 -----------------
