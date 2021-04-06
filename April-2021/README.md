@@ -1,4 +1,4 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 April 2021
 
 CodeForces
@@ -7,3 +7,4 @@ CodeForces
 1. [Hulk](https://codeforces.com/problemset/problem/705/A)
 1. [Calculating Function](https://codeforces.com/problemset/problem/486/A)
 1. [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)
+1. [Drinks](https://codeforces.com/problemset/problem/200/B)
