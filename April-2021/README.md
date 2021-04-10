@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 April 2021
 
 CodeForces
@@ -9,3 +9,4 @@ CodeForces
 1. [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)
 1. [Drinks](https://codeforces.com/problemset/problem/200/B)
 1. [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A)
+1. [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
