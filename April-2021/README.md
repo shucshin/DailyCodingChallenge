@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 April 2021
 
 CodeForces
@@ -11,6 +11,7 @@ CodeForces
 1. [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A)
 1. [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
 1. [Puzzles](https://codeforces.com/problemset/problem/337/A)
+1. [Game With Sticks](https://codeforces.com/problemset/problem/451/A)
 
 HackerRank
 -----------------
