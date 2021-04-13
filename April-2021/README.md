@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 April 2021
 
 CodeForces
@@ -11,6 +11,10 @@ CodeForces
 1. [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A)
 1. [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
 1. [Puzzles](https://codeforces.com/problemset/problem/337/A)
+
+HackerRank
+-----------------
+1. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
 Contests
 -----------------
