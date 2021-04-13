@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 April 2021
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Drinks](https://codeforces.com/problemset/problem/200/B)
 1. [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A)
 1. [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
+1. [Puzzles](https://codeforces.com/problemset/problem/337/A)
 
 Contests
 -----------------

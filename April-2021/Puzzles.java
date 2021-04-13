@@ -11,13 +11,12 @@ public class Puzzles {
             nums.add(i, scan.nextInt());
         }
         Collections.sort(nums);
+        int min = nums.get(n-1) - nums.get(0);
 
-        for(int j = 0; j < m-n; j+=2){
-            nums.remove(m-1-j);
-            nums.remove(0);
+        for(int j = 0; j < m-n+1; j++){
+            if(min > nums.get(n-1+j) - nums.get(j))
+                min = nums.get(n-1+j) - nums.get(j);
         }
-
-        int ans = nums.get(n-1) - nums.get(0);
-        System.out.println(ans);
+        System.out.println(min);
     }
 }
