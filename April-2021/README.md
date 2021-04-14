@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 April 2021
 
 CodeForces
@@ -16,6 +16,7 @@ CodeForces
 HackerRank
 -----------------
 1. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+1. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
 Contests
 -----------------
