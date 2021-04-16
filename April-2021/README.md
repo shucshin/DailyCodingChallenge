@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 April 2021
 
 CodeForces
@@ -12,6 +12,7 @@ CodeForces
 1. [Insomnia cure](https://codeforces.com/problemset/problem/148/A)
 1. [Puzzles](https://codeforces.com/problemset/problem/337/A)
 1. [Game With Sticks](https://codeforces.com/problemset/problem/451/A)
+1. [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)
 
 HackerRank
 -----------------
