@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 April 2021
 
 CodeForces
@@ -13,6 +13,7 @@ CodeForces
 1. [Puzzles](https://codeforces.com/problemset/problem/337/A)
 1. [Game With Sticks](https://codeforces.com/problemset/problem/451/A)
 1. [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)
+1. [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
 
 HackerRank
 -----------------
