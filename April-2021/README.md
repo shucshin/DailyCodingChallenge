@@ -1,4 +1,4 @@
-# Problems Solved :: 17
+# Problems Solved :: 18
 April 2021
 
 CodeForces
@@ -15,6 +15,7 @@ CodeForces
 1. [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A)
 1. [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
 1. [Anton and Letters](https://codeforces.com/problemset/problem/443/A)
+1. [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)
 
 HackerRank
 -----------------

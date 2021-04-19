@@ -21,7 +21,7 @@ class Result {
 
     public static int diagonalDifference(List<List<Integer>> arr) {
     // Write your code here
-        int index = arr.size()-1;
+        int index = arr.get(0).size()-1;
         int a = arr.get(0).get(0);
         int aa = arr.get(index).get(index);
         int b = arr.get(0).get(index);
