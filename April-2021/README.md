@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 April 2021
 
 CodeForces
@@ -25,3 +25,4 @@ HackerRank
 Contests
 -----------------
 1. [Array and Peaks](https://codeforces.com/problemset/problem/1513/A)
+1. [Increasing Substring](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882)
