@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 20
 April 2021
 
 CodeForces
@@ -26,6 +26,7 @@ HackerRank
 LeetCode
 -----------------
 1. [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
+1. [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
 
 Contests
 -----------------
