@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 April 2021
 
 CodeForces
@@ -22,6 +22,7 @@ HackerRank
 1. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 1. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 1. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+1. [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 LeetCode
 -----------------
