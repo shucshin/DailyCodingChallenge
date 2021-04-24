@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 April 2021
 
 CodeForces
@@ -24,6 +24,7 @@ HackerRank
 1. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 1. [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
 1. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
+1. [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 
 LeetCode
 -----------------
