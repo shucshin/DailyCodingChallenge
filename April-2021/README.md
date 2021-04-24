@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 April 2021
 
 CodeForces
@@ -23,6 +23,7 @@ HackerRank
 1. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 1. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 1. [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
+1. [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
 LeetCode
 -----------------
