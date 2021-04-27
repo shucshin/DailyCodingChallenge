@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 April 2021
 
 CodeForces
@@ -16,6 +16,7 @@ CodeForces
 1. [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
 1. [Anton and Letters](https://codeforces.com/problemset/problem/443/A)
 1. [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)
+1. [Pangram](https://codeforces.com/problemset/problem/520/A)
 
 HackerRank
 -----------------
