@@ -1,4 +1,4 @@
-# Problems Solved :: 25
+# Problems Solved :: 26
 April 2021
 
 CodeForces
@@ -32,6 +32,7 @@ LeetCode
 1. [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
 1. [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
 1. [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
+1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 Contests
 -----------------
