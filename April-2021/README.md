@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 April 2021
 
 CodeForces
@@ -18,6 +18,7 @@ CodeForces
 1. [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)
 1. [Pangram](https://codeforces.com/problemset/problem/520/A)
 1. [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)
+1. [Amusing Joke](https://codeforces.com/problemset/problem/141/A)
 
 HackerRank
 -----------------
