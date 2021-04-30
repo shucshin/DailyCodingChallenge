@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 April 2021
 
 CodeForces
@@ -33,6 +33,7 @@ LeetCode
 1. [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/)
 1. [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/)
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+1. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 Contests
 -----------------
