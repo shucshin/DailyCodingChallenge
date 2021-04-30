@@ -1,4 +1,4 @@
-# Problems Solved :: 27
+# Problems Solved :: 28
 April 2021
 
 CodeForces
@@ -17,6 +17,7 @@ CodeForces
 1. [Anton and Letters](https://codeforces.com/problemset/problem/443/A)
 1. [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)
 1. [Pangram](https://codeforces.com/problemset/problem/520/A)
+1. [Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)
 
 HackerRank
 -----------------
