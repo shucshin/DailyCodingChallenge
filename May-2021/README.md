@@ -1,9 +1,10 @@
-# Problems Solved :: 2
+# Problems Solved :: 3
 May 2021
 
 CodeForces
 -----------------
 1. [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)
+1. [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)
 
 HackerRank
 -----------------
