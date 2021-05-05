@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 May 2021
 
 CodeForces
@@ -12,3 +12,4 @@ HackerRank
 1. [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
 1. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 1. [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
+1. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
