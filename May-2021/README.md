@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 May 2021
 
 CodeForces
@@ -7,6 +7,7 @@ CodeForces
 1. [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)
 1. [Fox And Snake](https://codeforces.com/problemset/problem/510/A)
 1. [Vasya the Hipster](https://codeforces.com/problemset/problem/581/A)
+1. [New Year and Hurry](https://codeforces.com/problemset/problem/750/A)
 
 HackerRank
 -----------------
