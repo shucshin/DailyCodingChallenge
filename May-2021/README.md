@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 May 2021
 
 CodeForces
@@ -19,3 +19,7 @@ HackerRank
 1. [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
 1. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 1. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+
+LeetCode
+-----------------
+1. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
