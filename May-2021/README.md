@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 20
 May 2021
 
 CodeForces
@@ -13,6 +13,7 @@ CodeForces
 1. [Remove Smallest](https://codeforces.com/problemset/problem/1399/A)
 1. [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)
 1. [Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A)
+1. [Buy a Shovel](https://codeforces.com/problemset/problem/732/A)
 
 HackerRank
 -----------------
