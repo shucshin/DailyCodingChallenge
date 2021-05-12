@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 May 2021
 
 CodeForces
@@ -29,3 +29,4 @@ LeetCode
 1. [Max Consecutive Ones](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/)
 1. [Find Numbers with Even Number of Digits](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
 1. [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
+1. [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
