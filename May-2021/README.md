@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 May 2021
 
 CodeForces
@@ -14,6 +14,7 @@ CodeForces
 1. [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)
 1. [Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A)
 1. [Buy a Shovel](https://codeforces.com/problemset/problem/732/A)
+1. [Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)
 
 HackerRank
 -----------------
