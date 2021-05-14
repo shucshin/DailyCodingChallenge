@@ -1,4 +1,4 @@
-# Problems Solved :: 23
+# Problems Solved :: 24
 May 2021
 
 CodeForces
@@ -16,6 +16,7 @@ CodeForces
 1. [Buy a Shovel](https://codeforces.com/problemset/problem/732/A)
 1. [Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)
 1. [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A)
+1. [Police Recruits](https://codeforces.com/problemset/problem/427/A)
 
 HackerRank
 -----------------
