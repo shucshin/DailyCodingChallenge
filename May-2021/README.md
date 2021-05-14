@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 May 2021
 
 CodeForces
@@ -15,6 +15,7 @@ CodeForces
 1. [Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A)
 1. [Buy a Shovel](https://codeforces.com/problemset/problem/732/A)
 1. [Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)
+1. [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A)
 
 HackerRank
 -----------------
