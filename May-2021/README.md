@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 May 2021
 
 CodeForces
@@ -17,6 +17,7 @@ CodeForces
 1. [Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A)
 1. [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A)
 1. [Police Recruits](https://codeforces.com/problemset/problem/427/A)
+1. [Short Substrings](https://codeforces.com/problemset/problem/1367/A)
 
 HackerRank
 -----------------
