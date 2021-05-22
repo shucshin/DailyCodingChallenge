@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 May 2021
 
 CodeForces
@@ -18,6 +18,7 @@ CodeForces
 1. [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A)
 1. [Police Recruits](https://codeforces.com/problemset/problem/427/A)
 1. [Short Substrings](https://codeforces.com/problemset/problem/1367/A)
+1. [Balanced Array](https://codeforces.com/problemset/problem/1343/B)
 
 HackerRank
 -----------------
