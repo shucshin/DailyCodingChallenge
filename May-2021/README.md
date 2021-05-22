@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 May 2021
 
 CodeForces
@@ -20,6 +20,7 @@ CodeForces
 1. [Short Substrings](https://codeforces.com/problemset/problem/1367/A)
 1. [Balanced Array](https://codeforces.com/problemset/problem/1343/B)
 1. [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)
+1. [Choosing Teams](https://codeforces.com/problemset/problem/432/A)
 
 HackerRank
 -----------------
