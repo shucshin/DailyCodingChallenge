@@ -1,4 +1,4 @@
-# Problems Solved :: 27
+# Problems Solved :: 28
 May 2021
 
 CodeForces
@@ -19,6 +19,7 @@ CodeForces
 1. [Police Recruits](https://codeforces.com/problemset/problem/427/A)
 1. [Short Substrings](https://codeforces.com/problemset/problem/1367/A)
 1. [Balanced Array](https://codeforces.com/problemset/problem/1343/B)
+1. [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)
 
 HackerRank
 -----------------
