@@ -1,4 +1,4 @@
-# Problems Solved :: 30
+# Problems Solved :: 31
 May 2021
 
 CodeForces
@@ -22,6 +22,7 @@ CodeForces
 1. [The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A)
 1. [Choosing Teams](https://codeforces.com/problemset/problem/432/A)
 1. [Holiday Of Equality](https://codeforces.com/problemset/problem/758/A)
+1. [Two Arrays And Swaps](https://codeforces.com/problemset/problem/1353/B)
 
 HackerRank
 -----------------
