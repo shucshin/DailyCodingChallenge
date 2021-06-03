@@ -1,8 +1,9 @@
-# Problems Solved :: 1
+# Problems Solved :: 2
 June 2021
 
 CodeForces
 -----------------
+1. [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
 
 HackerRank
 -----------------
