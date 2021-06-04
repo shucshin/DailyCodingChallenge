@@ -1,4 +1,4 @@
-# Problems Solved :: 2
+# Problems Solved :: 3
 June 2021
 
 CodeForces
@@ -7,6 +7,7 @@ CodeForces
 
 HackerRank
 -----------------
+1. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
 
 LeetCode
 -----------------
