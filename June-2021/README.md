@@ -5,7 +5,6 @@ CodeForces
 -----------------
 1. [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
 
-
 HackerRank
 -----------------
 1. [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
