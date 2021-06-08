@@ -1,10 +1,11 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 June 2021
 
 CodeForces
 -----------------
 1. [Team Olympiad](https://codeforces.com/problemset/problem/490/A)
 1. [Minimal Square](https://codeforces.com/problemset/problem/1360/A)
+1. [Required Remainder](https://codeforces.com/problemset/problem/1374/A)]
 
 HackerRank
 -----------------
