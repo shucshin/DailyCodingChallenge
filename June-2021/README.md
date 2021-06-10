@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 June 2021
 
 CodeForces
@@ -7,6 +7,7 @@ CodeForces
 1. [Minimal Square](https://codeforces.com/problemset/problem/1360/A)
 1. [Required Remainder](https://codeforces.com/problemset/problem/1374/A)
 1. [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B)
+1. [Even Array](https://codeforces.com/problemset/problem/1367/B)
 
 HackerRank
 -----------------
