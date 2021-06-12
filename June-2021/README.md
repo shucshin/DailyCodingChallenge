@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 June 2021
 
 CodeForces
@@ -8,6 +8,7 @@ CodeForces
 1. [Required Remainder](https://codeforces.com/problemset/problem/1374/A)
 1. [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B)
 1. [Even Array](https://codeforces.com/problemset/problem/1367/B)
+1. [Mishka and Game](https://codeforces.com/problemset/problem/703/A)
 
 HackerRank
 -----------------
