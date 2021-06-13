@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 June 2021
 
 CodeForces
@@ -9,6 +9,7 @@ CodeForces
 1. [Gifts Fixing](https://codeforces.com/problemset/problem/1399/B)
 1. [Even Array](https://codeforces.com/problemset/problem/1367/B)
 1. [Mishka and Game](https://codeforces.com/problemset/problem/703/A)
+1. [Honest Coach](https://codeforces.com/problemset/problem/1360/B)
 
 HackerRank
 -----------------
