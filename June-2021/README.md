@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 June 2021
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Even Array](https://codeforces.com/problemset/problem/1367/B)
 1. [Mishka and Game](https://codeforces.com/problemset/problem/703/A)
 1. [Honest Coach](https://codeforces.com/problemset/problem/1360/B)
+1. [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A)
 
 HackerRank
 -----------------
