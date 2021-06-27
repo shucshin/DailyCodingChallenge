@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 June 2021
 
 CodeForces
@@ -13,6 +13,7 @@ CodeForces
 1. [Phoenix and Balance](https://codeforces.com/problemset/problem/1348/A)
 1. [Bachgold Problem](https://codeforces.com/problemset/problem/749/A)
 1. [Boring Apartments](https://codeforces.com/problemset/problem/1433/A)
+1. [Magical Sticks](https://codeforces.com/problemset/problem/1371/A)
 
 HackerRank
 -----------------
