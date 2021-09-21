@@ -7,4 +7,6 @@ The content will be based on algorithmic problems from platforms such as Codefor
 
 The challenge finishes when I get admitted to any company from FAANG as a Software Engineer.
 
-First problem solved with C++ on June 14th, 2021
+First problem solved with C++ on June 14th, 2021.
+
+July-2021 and August-2021 skipped due to daily work of 13hrs.
