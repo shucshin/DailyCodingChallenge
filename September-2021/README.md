@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 September 2021
 
 CodeForces
@@ -9,6 +9,7 @@ CodeForces
 1. [Maximum GCD](https://codeforces.com/problemset/problem/1370/A)
 1. [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A)
 1. [Black Square](https://codeforces.com/problemset/problem/431/A)
+1. [Fair Division](https://codeforces.com/problemset/problem/1472/B)
 
 Jutge
 -----------------
