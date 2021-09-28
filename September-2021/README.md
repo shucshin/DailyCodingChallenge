@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 September 2021
 
 CodeForces
@@ -8,6 +8,7 @@ CodeForces
 1. [Soft Drinking](https://codeforces.com/contest/151/problem/A)
 1. [Maximum GCD](https://codeforces.com/problemset/problem/1370/A)
 1. [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A)
+1. [Black Square](https://codeforces.com/problemset/problem/431/A)
 
 Jutge
 -----------------
