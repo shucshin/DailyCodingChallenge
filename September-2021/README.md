@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 September 2021
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Most Unstable Array](https://codeforces.com/problemset/problem/1353/A)
 1. [Black Square](https://codeforces.com/problemset/problem/431/A)
 1. [Fair Division](https://codeforces.com/problemset/problem/1472/B)
+1. [Cards for Friends](https://codeforces.com/contest/1472/problem/A)
 
 Jutge
 -----------------
