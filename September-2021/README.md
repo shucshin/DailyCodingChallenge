@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 September 2021
 
 CodeForces
@@ -11,6 +11,7 @@ CodeForces
 1. [Black Square](https://codeforces.com/problemset/problem/431/A)
 1. [Fair Division](https://codeforces.com/problemset/problem/1472/B)
 1. [Cards for Friends](https://codeforces.com/contest/1472/problem/A)
+1. [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B)
 
 Jutge
 -----------------
