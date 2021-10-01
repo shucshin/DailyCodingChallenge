@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 September 2021
 
 CodeForces
@@ -12,6 +12,7 @@ CodeForces
 1. [Fair Division](https://codeforces.com/problemset/problem/1472/B)
 1. [Cards for Friends](https://codeforces.com/contest/1472/problem/A)
 1. [Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B)
+1. [Sereja and Dima](https://codeforces.com/problemset/problem/381/A)
 
 Jutge
 -----------------
