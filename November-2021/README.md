@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 November 2021
 
 CodeForces
@@ -8,3 +8,7 @@ CodeForces
 1. [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
 1. [Collecting Coins](https://codeforces.com/problemset/problem/1294/A)
 1. [Park Lighting](https://codeforces.com/problemset/problem/1358/A)
+
+Jutge
+-----------------
+1. [Promedio](https://jutge.org/problems/P99182)
