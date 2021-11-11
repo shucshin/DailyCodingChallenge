@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 November 2021
 
 CodeForces
@@ -12,3 +12,4 @@ CodeForces
 Jutge
 -----------------
 1. [Promedio](https://jutge.org/problems/P99182)
+1. [Counting a's](https://jutge.org/problems/P97969)
