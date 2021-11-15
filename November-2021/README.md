@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 November 2021
 
 CodeForces
@@ -8,6 +8,7 @@ CodeForces
 1. [Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
 1. [Collecting Coins](https://codeforces.com/problemset/problem/1294/A)
 1. [Park Lighting](https://codeforces.com/problemset/problem/1358/A)
+1. [Fafa and his Company](https://codeforces.com/problemset/problem/935/A)
 
 Jutge
 -----------------
