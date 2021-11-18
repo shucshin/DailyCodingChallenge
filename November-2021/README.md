@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 November 2021
 
 CodeForces
@@ -9,6 +9,7 @@ CodeForces
 1. [Collecting Coins](https://codeforces.com/problemset/problem/1294/A)
 1. [Park Lighting](https://codeforces.com/problemset/problem/1358/A)
 1. [Fafa and his Company](https://codeforces.com/problemset/problem/935/A)
+1. [Maximum in Table](https://codeforces.com/problemset/problem/509/A)
 
 Jutge
 -----------------
