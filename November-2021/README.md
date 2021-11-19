@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 November 2021
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Park Lighting](https://codeforces.com/problemset/problem/1358/A)
 1. [Fafa and his Company](https://codeforces.com/problemset/problem/935/A)
 1. [Maximum in Table](https://codeforces.com/problemset/problem/509/A)
+1. [Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
 
 Jutge
 -----------------
