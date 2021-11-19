@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 November 2021
 
 CodeForces
@@ -12,6 +12,7 @@ CodeForces
 1. [Maximum in Table](https://codeforces.com/problemset/problem/509/A)
 1. [Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
 1. [Borze](https://codeforces.com/problemset/problem/32/B)
+1. [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)
 
 Jutge
 -----------------
