@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 November 2021
 
 CodeForces
@@ -13,6 +13,7 @@ CodeForces
 1. [Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B)
 1. [Borze](https://codeforces.com/problemset/problem/32/B)
 1. [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)
+1. [Fair Playoff](https://codeforces.com/problemset/problem/1535/A)
 
 Jutge
 -----------------
