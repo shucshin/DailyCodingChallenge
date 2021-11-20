@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 November 2021
 
 CodeForces
@@ -14,6 +14,7 @@ CodeForces
 1. [Borze](https://codeforces.com/problemset/problem/32/B)
 1. [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)
 1. [Fair Playoff](https://codeforces.com/problemset/problem/1535/A)
+1. [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)
 
 Jutge
 -----------------
