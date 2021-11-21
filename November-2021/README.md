@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 November 2021
 
 CodeForces
@@ -15,6 +15,7 @@ CodeForces
 1. [Minutes Before the New Year](https://codeforces.com/problemset/problem/1283/A)
 1. [Fair Playoff](https://codeforces.com/problemset/problem/1535/A)
 1. [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)
+1. [FashionabLee](https://codeforces.com/problemset/problem/1369/A)
 
 Jutge
 -----------------
