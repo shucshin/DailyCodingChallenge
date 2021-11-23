@@ -1,4 +1,4 @@
-# Problems Solved :: 17
+# Problems Solved :: 18
 November 2021
 
 CodeForces
@@ -18,6 +18,7 @@ CodeForces
 1. [FashionabLee](https://codeforces.com/problemset/problem/1369/A)
 1. [Die Roll](https://codeforces.com/problemset/problem/9/A)
 1. [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
+1. [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)
 
 Jutge
 -----------------
