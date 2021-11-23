@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 November 2021
 
 CodeForces
@@ -17,6 +17,7 @@ CodeForces
 1. [Vanya and Cubes](https://codeforces.com/problemset/problem/492/A)
 1. [FashionabLee](https://codeforces.com/problemset/problem/1369/A)
 1. [Die Roll](https://codeforces.com/problemset/problem/9/A)
+1. [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
 
 Jutge
 -----------------
