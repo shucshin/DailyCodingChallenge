@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 November 2021
 
 CodeForces
@@ -19,6 +19,7 @@ CodeForces
 1. [Die Roll](https://codeforces.com/problemset/problem/9/A)
 1. [Favorite Sequence](https://codeforces.com/problemset/problem/1462/A)
 1. [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)
+1. [Floor Number](https://codeforces.com/problemset/problem/1426/A)
 
 Jutge
 -----------------
