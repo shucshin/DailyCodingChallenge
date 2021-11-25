@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 November 2021
 
 CodeForces
@@ -22,6 +22,7 @@ CodeForces
 1. [Floor Number](https://codeforces.com/problemset/problem/1426/A)
 1. [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A)
 1. [Make Even](https://codeforces.com/contest/1611/problem/A)
+1. [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
 
 Jutge
 -----------------
