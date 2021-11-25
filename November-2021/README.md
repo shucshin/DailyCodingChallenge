@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 November 2021
 
 CodeForces
@@ -21,6 +21,7 @@ CodeForces
 1. [Array with Odd Sum](https://codeforces.com/problemset/problem/1296/A)
 1. [Floor Number](https://codeforces.com/problemset/problem/1426/A)
 1. [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A)
+1. [Make Even](https://codeforces.com/contest/1611/problem/A)
 
 Jutge
 -----------------
