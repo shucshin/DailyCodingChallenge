@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 November 2021
 
 CodeForces
@@ -25,6 +25,7 @@ CodeForces
 1. [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
 1. [CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B)
 1. [Night at the Museum](https://codeforces.com/problemset/problem/731/A)
+1. [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
 
 Jutge
 -----------------
