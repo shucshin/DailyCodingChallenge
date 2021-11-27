@@ -1,4 +1,4 @@
-# Problems Solved :: 23
+# Problems Solved :: 24
 November 2021
 
 CodeForces
@@ -24,6 +24,7 @@ CodeForces
 1. [Make Even](https://codeforces.com/contest/1611/problem/A)
 1. [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
 1. [CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B)
+1. [Night at the Museum](https://codeforces.com/problemset/problem/731/A)
 
 Jutge
 -----------------
