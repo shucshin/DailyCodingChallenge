@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 November 2021
 
 CodeForces
@@ -23,6 +23,7 @@ CodeForces
 1. [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A)
 1. [Make Even](https://codeforces.com/contest/1611/problem/A)
 1. [Team Composition: Programmers and Mathematicians](https://codeforces.com/contest/1611/problem/B)
+1. [CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B)
 
 Jutge
 -----------------
