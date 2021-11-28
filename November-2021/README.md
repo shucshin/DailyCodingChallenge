@@ -1,4 +1,4 @@
-# Problems Solved :: 25
+# Problems Solved :: 26
 November 2021
 
 CodeForces
@@ -26,6 +26,7 @@ CodeForces
 1. [CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B)
 1. [Night at the Museum](https://codeforces.com/problemset/problem/731/A)
 1. [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
+1. [Omkar and Completion](https://codeforces.com/problemset/problem/1372/A)
 
 Jutge
 -----------------
