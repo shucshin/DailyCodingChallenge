@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 November 2021
 
 CodeForces
@@ -27,6 +27,7 @@ CodeForces
 1. [Night at the Museum](https://codeforces.com/problemset/problem/731/A)
 1. [Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A)
 1. [Omkar and Completion](https://codeforces.com/problemset/problem/1372/A)
+1. [Casimir's String Solitaire](https://codeforces.com/problemset/problem/1579/A)
 
 Jutge
 -----------------
