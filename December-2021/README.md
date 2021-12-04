@@ -1,8 +1,9 @@
-# Problems Solved :: 3
+# Problems Solved :: 4
 December 2021
 
 CodeForces
 -----------------
-1.[Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A)
-1.[EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A)
-1.[LCM Problem](https://codeforces.com/problemset/problem/1389/A)
+1. [Three Pairwise Maximums](https://codeforces.com/problemset/problem/1385/A)
+1. [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A)
+1. [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
+1. [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A)
