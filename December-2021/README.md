@@ -1,4 +1,4 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 December 2021
 
 CodeForces
@@ -7,3 +7,4 @@ CodeForces
 1. [EhAb AnD gCd](https://codeforces.com/problemset/problem/1325/A)
 1. [LCM Problem](https://codeforces.com/problemset/problem/1389/A)
 1. [Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A)
+1. [Ichihime and Triangle](https://codeforces.com/problemset/problem/1337/A)
