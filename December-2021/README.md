@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 December 2021
 
 CodeForces
@@ -10,3 +10,4 @@ CodeForces
 1. [Ichihime and Triangle](https://codeforces.com/problemset/problem/1337/A)
 1. [Odd Set](https://codeforces.com/problemset/problem/1542/A)
 1. [Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)
+1. [Who's Opposite?](https://codeforces.com/problemset/problem/1560/B)
