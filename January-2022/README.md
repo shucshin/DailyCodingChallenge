@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 January 2022
 
 CodeForces
@@ -8,3 +8,4 @@ CodeForces
 1. [Replacing Elements](https://codeforces.com/problemset/problem/1473/A)
 1. [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A)
 1. [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
+1. [Square String?](https://codeforces.com/problemset/problem/1619/A)
