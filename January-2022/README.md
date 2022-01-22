@@ -1,4 +1,4 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 January 2022
 
 CodeForces
@@ -7,3 +7,4 @@ CodeForces
 1. [Stone Game](https://codeforces.com/problemset/problem/1538/A)
 1. [Replacing Elements](https://codeforces.com/problemset/problem/1473/A)
 1. [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A)
+1. [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
