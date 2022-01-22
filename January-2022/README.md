@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 January 2022
 
 CodeForces
@@ -9,3 +9,4 @@ CodeForces
 1. [Linear Keyboard](https://codeforces.com/problemset/problem/1607/A)
 1. [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
 1. [Square String?](https://codeforces.com/problemset/problem/1619/A)
+1. [Maximum Increase](https://codeforces.com/problemset/problem/702/A)
