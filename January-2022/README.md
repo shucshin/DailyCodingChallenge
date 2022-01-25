@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 January 2022
 
 CodeForces
@@ -10,3 +10,4 @@ CodeForces
 1. [Perfect Permutation](https://codeforces.com/problemset/problem/233/A)
 1. [Square String?](https://codeforces.com/problemset/problem/1619/A)
 1. [Maximum Increase](https://codeforces.com/problemset/problem/702/A)
+1. [Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
