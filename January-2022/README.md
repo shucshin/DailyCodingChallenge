@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 January 2022
 
 CodeForces
@@ -13,3 +13,4 @@ CodeForces
 1. [Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
 1. [Friends and Candies](https://codeforces.com/problemset/problem/1538/B)
 1. [Combination Lock](https://codeforces.com/problemset/problem/540/A)
+1. [C+=](https://codeforces.com/problemset/problem/1368/A)
