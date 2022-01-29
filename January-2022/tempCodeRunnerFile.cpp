@@ -1,0 +1,2 @@
+
+    int total = 0;

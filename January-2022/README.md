@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 January 2022
 
 CodeForces
@@ -12,3 +12,4 @@ CodeForces
 1. [Maximum Increase](https://codeforces.com/problemset/problem/702/A)
 1. [Arithmetic Array](https://codeforces.com/problemset/problem/1537/A)
 1. [Friends and Candies](https://codeforces.com/problemset/problem/1538/B)
+1. [Combination Lock](https://codeforces.com/problemset/problem/540/A)
