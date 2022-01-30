@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 January 2022
 
 CodeForces
@@ -18,3 +18,4 @@ CodeForces
 HackerRank
 -----------------
 1. [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/)
+1. [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/)
