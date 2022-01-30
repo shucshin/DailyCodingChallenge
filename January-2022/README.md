@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 January 2022
 
 CodeForces
@@ -14,3 +14,7 @@ CodeForces
 1. [Friends and Candies](https://codeforces.com/problemset/problem/1538/B)
 1. [Combination Lock](https://codeforces.com/problemset/problem/540/A)
 1. [C+=](https://codeforces.com/problemset/problem/1368/A)
+
+HackerRank
+-----------------
+1. [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/)
