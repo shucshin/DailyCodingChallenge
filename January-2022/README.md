@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 January 2022
 
 CodeForces
@@ -14,6 +14,7 @@ CodeForces
 1. [Friends and Candies](https://codeforces.com/problemset/problem/1538/B)
 1. [Combination Lock](https://codeforces.com/problemset/problem/540/A)
 1. [C+=](https://codeforces.com/problemset/problem/1368/A)
+1. [Strange Table](https://codeforces.com/problemset/problem/1506/A)
 
 HackerRank
 -----------------
