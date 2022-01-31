@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 January 2022
 
 CodeForces
@@ -15,6 +15,7 @@ CodeForces
 1. [Combination Lock](https://codeforces.com/problemset/problem/540/A)
 1. [C+=](https://codeforces.com/problemset/problem/1368/A)
 1. [Strange Table](https://codeforces.com/problemset/problem/1506/A)
+1. [Dense Array](https://codeforces.com/problemset/problem/1490/A)
 
 HackerRank
 -----------------
