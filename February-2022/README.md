@@ -1,4 +1,4 @@
-# Problems Solved :: 3
+# Problems Solved :: 4
 February 2022
 
 CodeForces
@@ -6,3 +6,4 @@ CodeForces
 1. [Elections](https://codeforces.com/problemset/problem/1593/A)
 1. [Candies](https://codeforces.com/problemset/problem/1343/A)
 1. [Vasya and Socks](https://codeforces.com/problemset/problem/460/A)
+1. [Odd Divisor](https://codeforces.com/problemset/problem/1475/A)
