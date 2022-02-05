@@ -1,4 +1,4 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 February 2022
 
 CodeForces
@@ -7,3 +7,4 @@ CodeForces
 1. [Candies](https://codeforces.com/problemset/problem/1343/A)
 1. [Vasya and Socks](https://codeforces.com/problemset/problem/460/A)
 1. [Odd Divisor](https://codeforces.com/problemset/problem/1475/A)
+1. [Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B)
