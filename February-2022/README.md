@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 February 2022
 
 CodeForces
@@ -20,3 +20,4 @@ Kattis
 -----------------
 1. [Death Knight Hero](https://open.kattis.com/contests/renkce/problems/deathknight)
 1. [Speed Limit](https://open.kattis.com/problems/speedlimit)
+1. [Cinema Crowds 2](https://open.kattis.com/contests/renkce/problems/cinema2)
