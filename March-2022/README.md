@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 March 2022
 
 CodeForces
@@ -17,6 +17,7 @@ BeeCrowd
 1. [Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005)
 1. [Average 2](https://www.beecrowd.com.br/judge/en/problems/view/1006)
 1. [Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)
+1. [Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008)
 
 
 
