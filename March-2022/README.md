@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 March 2022
 
 CodeForces
@@ -24,6 +24,8 @@ BeeCrowd
 1. [Sphere](https://www.beecrowd.com.br/judge/en/problems/view/1011)
 1. [Area](https://www.beecrowd.com.br/judge/en/problems/view/1012)
 1. [The Greatest](https://www.beecrowd.com.br/judge/en/problems/view/1013)
+1. [Consumption](https://www.beecrowd.com.br/judge/en/problems/view/1014)
+
 
 
 
