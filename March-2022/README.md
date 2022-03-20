@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 March 2022
 
 CodeForces
@@ -14,5 +14,7 @@ BeeCrowd
 1. [Area of a Circle](https://www.beecrowd.com.br/judge/en/problems/view/1002)
 1. [Simple Sum](https://www.beecrowd.com.br/judge/en/problems/view/1003)
 1. [Simple Product](https://www.beecrowd.com.br/judge/en/problems/view/1004)
+1. [Average 1](https://www.beecrowd.com.br/judge/en/problems/view/1005)
+
 
 
