@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 March 2022
 
 CodeForces
@@ -19,7 +19,7 @@ BeeCrowd
 1. [Difference](https://www.beecrowd.com.br/judge/en/problems/view/1007)
 1. [Salary](https://www.beecrowd.com.br/judge/en/problems/view/1008)
 1. [Salary with Bonus](https://www.beecrowd.com.br/judge/en/problems/view/1009)
-
+1. [Simple Calculate](https://www.beecrowd.com.br/judge/en/problems/view/1010)
 
 
 
