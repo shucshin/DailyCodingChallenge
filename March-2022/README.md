@@ -1,4 +1,4 @@
-# Problems Solved :: 25
+# Problems Solved :: 26
 March 2022
 
 CodeForces
@@ -8,6 +8,7 @@ CodeForces
 1. [Keyboard](https://codeforces.com/problemset/problem/474/A)
 1. [Case of the Zeros and Ones](https://codeforces.com/problemset/problem/556/A)
 1. [Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)
+1. [Business trip](https://codeforces.com/problemset/problem/149/A)
 
 BeeCrowd
 -----------------
