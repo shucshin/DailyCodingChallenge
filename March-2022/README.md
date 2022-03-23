@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 March 2022
 
 CodeForces
@@ -29,6 +29,7 @@ BeeCrowd
 1. [Distance Between Two Points](https://www.beecrowd.com.br/judge/en/problems/view/1015)
 1. [Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016)
 1. [Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017)
+1. [Banknotes](https://www.beecrowd.com.br/judge/en/problems/view/1018)
 
 Google Kick Start
 -----------------
