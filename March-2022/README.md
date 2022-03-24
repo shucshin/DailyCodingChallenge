@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 March 2022
 
 CodeForces
@@ -31,6 +31,7 @@ BeeCrowd
 1. [Distance](https://www.beecrowd.com.br/judge/en/problems/view/1016)
 1. [Fuel Spent](https://www.beecrowd.com.br/judge/en/problems/view/1017)
 1. [Banknotes](https://www.beecrowd.com.br/judge/en/problems/view/1018)
+1. [Time Conversion](https://www.beecrowd.com.br/judge/en/problems/view/1019)
 
 Google Kick Start
 -----------------
