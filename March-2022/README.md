@@ -1,4 +1,4 @@
-# Problems Solved :: 29
+# Problems Solved :: 30
 March 2022
 
 CodeForces
@@ -9,6 +9,7 @@ CodeForces
 1. [Case of the Zeros and Ones](https://codeforces.com/problemset/problem/556/A)
 1. [Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)
 1. [Business trip](https://codeforces.com/problemset/problem/149/A)
+1. [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)
 
 BeeCrowd
 -----------------
