@@ -1,4 +1,4 @@
-# Problems Solved :: 30
+# Problems Solved :: 31
 March 2022
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)
 1. [Business trip](https://codeforces.com/problemset/problem/149/A)
 1. [Filling Diamonds](https://codeforces.com/problemset/problem/1339/A)
+1. [Two-gram](https://codeforces.com/problemset/problem/977/B)
 
 BeeCrowd
 -----------------
