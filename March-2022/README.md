@@ -1,4 +1,4 @@
-# Problems Solved :: 31
+# Problems Solved :: 32
 March 2022
 
 CodeForces
@@ -36,6 +36,7 @@ BeeCrowd
 1. [Time Conversion](https://www.beecrowd.com.br/judge/en/problems/view/1019)
 1. [Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020)
 1. [Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
+1. [Selection Test 1](https://www.beecrowd.com.br/judge/en/problems/view/1035)
 
 Google Kick Start
 -----------------
