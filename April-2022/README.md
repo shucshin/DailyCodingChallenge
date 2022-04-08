@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 April 2022
 
 CodeForces
@@ -13,4 +13,4 @@ BeeCrowd
 1. [Snack](https://www.beecrowd.com.br/judge/en/problems/view/1038)
 1. [Encryption](https://www.beecrowd.com.br/judge/en/problems/view/1024)
 1. [Contract Revision](https://www.beecrowd.com.br/judge/en/problems/view/1120)
-
+1. [LED](https://www.beecrowd.com.br/judge/en/problems/view/1168)
