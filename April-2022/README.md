@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 April 2022
 
 CodeForces
@@ -8,6 +8,7 @@ CodeForces
 1. [Food Buying](https://codeforces.com/problemset/problem/1296/B)
 1. [Unique Number](https://codeforces.com/problemset/problem/1462/C)
 1. [Distance and Axis](https://codeforces.com/problemset/problem/1401/A)
+1. [Magic Numbers](https://codeforces.com/problemset/problem/320/A)
 
 BeeCrowd
 -----------------
