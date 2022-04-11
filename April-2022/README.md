@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 April 2022
 
 CodeForces
@@ -7,6 +7,7 @@ CodeForces
 1. [Nastya and Rice](https://codeforces.com/problemset/problem/1341/A)
 1. [Food Buying](https://codeforces.com/problemset/problem/1296/B)
 1. [Unique Number](https://codeforces.com/problemset/problem/1462/C)
+1. [Distance and Axis](https://codeforces.com/problemset/problem/1401/A)
 
 BeeCrowd
 -----------------
