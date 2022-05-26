@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 May 2022
 
 CodeForces
@@ -14,5 +14,7 @@ CodeSignal
 -----------------
 1. [add](https://app.codesignal.com/arcade/intro/level-1/jwr339Kq6e3LQTsfa)
 1. [centuryFromYear](https://app.codesignal.com/arcade/intro/level-1/egbueTZRRL5Mm4TXN)
+1. [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ)
+
 
 
