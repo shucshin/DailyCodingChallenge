@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 May 2022
 
 CodeForces
@@ -17,5 +17,5 @@ CodeSignal
 1. [checkPalindrome](https://app.codesignal.com/arcade/intro/level-1/s5PbmwxfECC52PWyQ)
 1. [adjacentElementsProduct](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)
 1. [shapeArea](https://app.codesignal.com/arcade/intro/level-2/yuGuHvcCaFCKk56rJ)
-
+1. [Make Array Consecutive 2](https://app.codesignal.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC)
 
