@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 August 2022
 
 CodeForces
@@ -14,4 +14,4 @@ CodeSignal
 1. [All Longest Strings](https://app.codesignal.com/arcade/intro/level-3/fzsCQGYbxaEcTr2bL)
 1. [commonCharacterCount](https://app.codesignal.com/arcade/intro/level-3/JKKuHJknZNj4YGL32)
 1. [isLucky](https://app.codesignal.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ)
-
+1. [Sort by Height](https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM)
