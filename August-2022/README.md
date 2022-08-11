@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 August 2022
 
 CodeForces
@@ -6,6 +6,7 @@ CodeForces
 
 BeeCrowd
 -----------------
+1. [Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040)
 
 CodeSignal
 -----------------
