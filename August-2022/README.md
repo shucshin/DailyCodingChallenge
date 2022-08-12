@@ -1,8 +1,9 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 August 2022
 
 CodeForces
 -----------------
+1. [Make AP](https://codeforces.com/contest/1624/problem/B)
 
 BeeCrowd
 -----------------
