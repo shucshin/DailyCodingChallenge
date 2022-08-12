@@ -1,9 +1,10 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 August 2022
 
 CodeForces
 -----------------
 1. [Make AP](https://codeforces.com/contest/1624/problem/B)
+1. [Lineland Mail](https://codeforces.com/problemset/problem/567/A)
 
 BeeCrowd
 -----------------
