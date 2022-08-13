@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 August 2022
 
 CodeForces
@@ -26,3 +26,4 @@ HackerRank
 -----------------
 1. [Conditional Statementes](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true)
 1. [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true)
+1. [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true)
