@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 August 2022
 
 CodeForces
@@ -6,6 +6,7 @@ CodeForces
 1. [Make AP](https://codeforces.com/contest/1624/problem/B)
 1. [Lineland Mail](https://codeforces.com/problemset/problem/567/A)
 1. [Orac and Factors](https://codeforces.com/contest/1350/problem/A)
+1. [Dominant Piranha](https://codeforces.com/problemset/problem/1433/C)
 
 BeeCrowd
 -----------------
