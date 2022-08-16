@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 August 2022
 
 CodeForces
@@ -13,6 +13,7 @@ BeeCrowd
 1. [Average 3](https://www.beecrowd.com.br/judge/en/problems/view/1040)
 1. [Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041)
 1. [Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042)
+1. [Triangle](https://www.beecrowd.com.br/judge/en/problems/view/1043)
 
 CodeSignal
 -----------------
