@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 August 2022
 
 CodeForces
@@ -15,6 +15,7 @@ BeeCrowd
 1. [Simple Sort](https://www.beecrowd.com.br/judge/en/problems/view/1042)
 1. [Triangle](https://www.beecrowd.com.br/judge/en/problems/view/1043)
 1. [Multiples](https://www.beecrowd.com.br/judge/en/problems/view/1044)
+1. [Triangle Types](https://www.beecrowd.com.br/judge/en/problems/view/1045)
 
 CodeSignal
 -----------------
