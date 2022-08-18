@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 August 2022
 
 CodeForces
@@ -7,6 +7,7 @@ CodeForces
 1. [Lineland Mail](https://codeforces.com/problemset/problem/567/A)
 1. [Orac and Factors](https://codeforces.com/contest/1350/problem/A)
 1. [Dominant Piranha](https://codeforces.com/problemset/problem/1433/C)
+1. [Yet Another Tetris Problem](https://codeforces.com/problemset/problem/1324/A)
 
 BeeCrowd
 -----------------
