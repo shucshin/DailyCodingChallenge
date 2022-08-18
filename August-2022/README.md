@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 August 2022
 
 CodeForces
@@ -26,6 +26,7 @@ CodeSignal
 1. [isLucky](https://app.codesignal.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ)
 1. [Sort by Height](https://app.codesignal.com/arcade/intro/level-3/D6qmdBL2NYz49XHwM)
 1. [reverseInParentheses](https://app.codesignal.com/arcade/intro/level-3/9DgaPsE2a7M6M2Hu6)
+1. [alternatingSums](https://app.codesignal.com/arcade/intro/level-4/cC5QuL9fqvZjXJsW9)
 
 HackerRank
 -----------------
