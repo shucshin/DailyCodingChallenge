@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 August 2022
 
 CodeForces
@@ -34,3 +34,4 @@ HackerRank
 1. [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true)
 1. [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true)
 1. [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true)
+1. [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true)
