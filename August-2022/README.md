@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 August 2022
 
 CodeForces
@@ -19,6 +19,7 @@ BeeCrowd
 1. [Triangle Types](https://www.beecrowd.com.br/judge/en/problems/view/1045)
 1. [Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046)
 1. [Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048)
+1. [Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049)
 
 CodeSignal
 -----------------
