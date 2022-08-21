@@ -1,4 +1,4 @@
-# Problems Solved :: 27
+# Problems Solved :: 28
 August 2022
 
 CodeForces
@@ -39,3 +39,4 @@ HackerRank
 1. [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true)
 1. [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true)
 1. [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true)
+1. [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
