@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 August 2022
 
 CodeForces
@@ -20,6 +20,7 @@ BeeCrowd
 1. [Game Time](https://www.beecrowd.com.br/judge/en/problems/view/1046)
 1. [Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048)
 1. [Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049)
+1. [DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050)
 
 CodeSignal
 -----------------
