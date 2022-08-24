@@ -1,4 +1,4 @@
-# Problems Solved :: 31
+# Problems Solved :: 32
 August 2022
 
 CodeForces
@@ -34,6 +34,7 @@ CodeSignal
 1. [alternatingSums](https://app.codesignal.com/arcade/intro/level-4/cC5QuL9fqvZjXJsW9)
 1. [Add Border](https://app.codesignal.com/arcade/intro/level-4/ZCD7NQnED724bJtjN)
 1. [Are Similar?](https://app.codesignal.com/arcade/intro/level-4/xYXfzQmnhBvEKJwXP)
+1. [arrayChange](https://app.codesignal.com/arcade/intro/level-4/xvkRbxYkdHdHNCKjg)
 
 HackerRank
 -----------------
