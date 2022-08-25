@@ -1,4 +1,4 @@
-# Problems Solved :: 32
+# Problems Solved :: 33
 August 2022
 
 CodeForces
@@ -21,6 +21,7 @@ BeeCrowd
 1. [Salary Increase](https://www.beecrowd.com.br/judge/en/problems/view/1048)
 1. [Animal](https://www.beecrowd.com.br/judge/en/problems/view/1049)
 1. [DDD](https://www.beecrowd.com.br/judge/en/problems/view/1050)
+1. [Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051)
 
 CodeSignal
 -----------------
