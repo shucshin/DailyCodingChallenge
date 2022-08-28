@@ -1,4 +1,4 @@
-# Problems Solved :: 35
+# Problems Solved :: 36
 August 2022
 
 CodeForces
@@ -24,6 +24,7 @@ BeeCrowd
 1. [Taxes](https://www.beecrowd.com.br/judge/en/problems/view/1051)
 1. [Month](https://www.beecrowd.com.br/judge/en/problems/view/1052)
 1. [Even Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1059)
+1. [Positive Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1060)
 
 CodeSignal
 -----------------
