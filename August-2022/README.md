@@ -1,4 +1,4 @@
-# Problems Solved :: 38
+# Problems Solved :: 39
 August 2022
 
 CodeForces
@@ -27,6 +27,7 @@ BeeCrowd
 1. [Positive Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1060)
 1. [Event Time](https://www.beecrowd.com.br/judge/en/problems/view/1061)
 1. [Short Story Competition](https://www.beecrowd.com.br/judge/en/problems/view/1222)
+1. [Positives and Average](https://www.beecrowd.com.br/judge/en/problems/view/1064)
 
 CodeSignal
 -----------------
