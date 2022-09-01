@@ -1,4 +1,4 @@
-# Problems Solved :: 1
+# Problems Solved :: 2
 September 2022
 
 CodeForces
@@ -15,3 +15,4 @@ CodeSignal
 
 HackerRank
 -----------------
+1. [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true)
