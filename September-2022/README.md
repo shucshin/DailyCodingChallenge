@@ -1,4 +1,4 @@
-# Problems Solved :: 2
+# Problems Solved :: 3
 September 2022
 
 CodeForces
@@ -7,7 +7,7 @@ CodeForces
 
 BeeCrowd
 -----------------
-
+1. [Flowers Flourish from France](https://www.beecrowd.com.br/judge/en/problems/view/1140)
 
 CodeSignal
 -----------------
