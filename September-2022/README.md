@@ -1,9 +1,10 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 September 2022
 
 CodeForces
 -----------------
 1. [Perfect Permutation](https://codeforces.com/contest/1711/problem/A)
+1. [Image](https://codeforces.com/contest/1721/problem/A)
 
 BeeCrowd
 -----------------
