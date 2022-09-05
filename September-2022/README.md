@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 September 2022
 
 CodeForces
@@ -13,7 +13,7 @@ BeeCrowd
 
 CodeSignal
 -----------------
-
+1. [palindromeRearranging](https://app.codesignal.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico)
 
 HackerRank
 -----------------
