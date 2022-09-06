@@ -1,10 +1,11 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 September 2022
 
 CodeForces
 -----------------
 1. [Perfect Permutation](https://codeforces.com/contest/1711/problem/A)
 1. [Image](https://codeforces.com/contest/1721/problem/A)
+1. [Deadly Laser](https://codeforces.com/contest/1721/problem/B)
 
 BeeCrowd
 -----------------
