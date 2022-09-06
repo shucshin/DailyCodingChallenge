@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 September 2022
 
 CodeForces
@@ -23,3 +23,4 @@ HackerRank
 Kattis
 -----------------
 1. [Howl](https://open.kattis.com/problems/howl)
+1. [Boss Battle](https://open.kattis.com/problems/bossbattle)
