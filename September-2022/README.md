@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 September 2022
 
 CodeForces
@@ -16,6 +16,7 @@ CodeSignal
 -----------------
 1. [palindromeRearranging](https://app.codesignal.com/arcade/intro/level-4/Xfeo7r9SBSpo3Wico)
 1. [areEquallyStrong](https://app.codesignal.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL)
+1. [arrayMaximalAdjacentDifference](https://app.codesignal.com/arcade/intro/level-5/EEJxjQ7oo7C5wAGjE)
 
 HackerRank
 -----------------
