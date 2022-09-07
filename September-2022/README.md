@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 September 2022
 
 CodeForces
@@ -26,3 +26,4 @@ Kattis
 -----------------
 1. [Howl](https://open.kattis.com/problems/howl)
 1. [Boss Battle](https://open.kattis.com/problems/bossbattle)
+1. [Shopaholic](https://open.kattis.com/problems/shopaholic)
