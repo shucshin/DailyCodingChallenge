@@ -1,4 +1,4 @@
-# Problems Solved :: 15
+# Problems Solved :: 16
 September 2022
 
 CodeForces
@@ -33,3 +33,4 @@ Kattis
 omegaUP
 -----------------
 1. [Área de la figura](https://omegaup.com/arena/problem/Area-de-la-figura/)
+1. [Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/)
