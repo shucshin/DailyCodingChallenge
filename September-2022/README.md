@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 15
 September 2022
 
 CodeForces
@@ -11,6 +11,7 @@ BeeCrowd
 -----------------
 1. [Flowers Flourish from France](https://www.beecrowd.com.br/judge/en/problems/view/1140)
 1. [Sum of Two Squares](https://www.beecrowd.com.br/judge/en/problems/view/1558)
+1. [Factorial Sum](https://www.beecrowd.com.br/judge/en/problems/view/1161)
 
 CodeSignal
 -----------------
@@ -28,3 +29,7 @@ Kattis
 1. [Boss Battle](https://open.kattis.com/problems/bossbattle)
 1. [Shopaholic](https://open.kattis.com/problems/shopaholic)
 1. [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)
+
+omegaUP
+-----------------
+1. [Área de la figura](https://omegaup.com/arena/problem/Area-de-la-figura/)
