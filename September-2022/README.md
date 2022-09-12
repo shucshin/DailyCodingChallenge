@@ -1,4 +1,4 @@
-# Problems Solved :: 17
+# Problems Solved :: 18
 September 2022
 
 CodeForces
@@ -35,3 +35,4 @@ omegaUP
 1. [Área de la figura](https://omegaup.com/arena/problem/Area-de-la-figura/)
 1. [Barbulla Matemática](https://omegaup.com/arena/problem/Barbulla-Matematica/)
 1. [Resolviendo El Acertijo Matemático](https://omegaup.com/arena/problem/Matematico/)
+1. [Los Feriapesos](https://omegaup.com/arena/problem/Los-Feriapesos/)
