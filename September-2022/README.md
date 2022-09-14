@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 September 2022
 
 CodeForces
@@ -12,6 +12,7 @@ BeeCrowd
 1. [Flowers Flourish from France](https://www.beecrowd.com.br/judge/en/problems/view/1140)
 1. [Sum of Two Squares](https://www.beecrowd.com.br/judge/en/problems/view/1558)
 1. [Factorial Sum](https://www.beecrowd.com.br/judge/en/problems/view/1161)
+1. [Diamonds and Sand](https://www.beecrowd.com.br/judge/en/problems/view/1069)
 
 CodeSignal
 -----------------
