@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 September 2022
 
 CodeForces
@@ -29,6 +29,7 @@ Kattis
 1. [Boss Battle](https://open.kattis.com/problems/bossbattle)
 1. [Shopaholic](https://open.kattis.com/problems/shopaholic)
 1. [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)
+1. [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables)
 
 omegaUP
 -----------------

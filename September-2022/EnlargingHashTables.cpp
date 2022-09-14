@@ -4,18 +4,41 @@
 #include <cmath>
 using namespace std;
 typedef long long ll;
+typedef vector<long long> vl;
 
+bool prime[32768];
 
-
-void solve(ll n, bool prime[]) {    
+void solve(ll n, bool prime[], vl vec) {    
     // Checa si n es número primo
-    bool nPrime = prime[n];
-    // Variable con número mínimo mayor a 2n
-    ll n2 = n*2 + 1;
-    // Iterar Criba de Eratóstenes hasta que n2 sea primo (que el elemento sea true)
-    while(!prime[n2]) {
-        n2++;
+    bool nPrime = true;
+    for(int i = 0; i < vec.size(); i++) {
+        if(n == vec[i]) {
+            nPrime = true;
+            break;
+        }
+        if(n%vec[i] == 0) {
+            nPrime = false;
+            break;
+        }
     }
+        
+    // Variable con número mínimo mayor a 2n
+    ll n2 = n*2;
+    bool n2Prime = false;
+    while(!n2Prime) {
+        n2++;
+        n2Prime = true;
+        for(int i = 0; i < vec.size(); i++) {
+            if(sqrt(n2) < vec[i]) {
+                break;
+            }
+            if(n2%vec[i] == 0) {
+                n2Prime = false;
+                break;
+            }
+        }
+    }
+    
     // Si n es primo solo imprimir n2
     if(nPrime)
         cout << n2 << endl;
@@ -26,8 +49,7 @@ void solve(ll n, bool prime[]) {
 
 int main() {
     // Criba de Eratóstenes
-    ll m = sqrt(pow(2, 30));
-    bool prime[m];
+    ll m = 32768;
     memset(prime, true, sizeof(prime));
     prime[0] = false, prime[1] = false;
     for(ll p = 2; p*p <= m; p++) {
@@ -37,11 +59,18 @@ int main() {
             }
         }
     }
+    vl vec;
+    for(ll i = 2; i <= m; i++) {
+        if(prime[i] == true) {
+            vec.push_back(i);
+        }
+    }
+
     ll n;
     while(cin >> n) {
         if(n == 0)
             break;
-        solve(n, prime);
+        solve(n, prime, vec);
     }
     return 0;
 }
