@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 20
 September 2022
 
 CodeForces
@@ -37,3 +37,4 @@ omegaUP
 1. [Resolviendo El Acertijo Matemático](https://omegaup.com/arena/problem/Matematico/)
 1. [Los Feriapesos](https://omegaup.com/arena/problem/Los-Feriapesos/)
 1. [Tabla para Pastel](https://omegaup.com/arena/problem/Tabla-para-pastel/)
+1. [¿Dónde quedó el primo?](https://omegaup.com/arena/problem/findprime/)
