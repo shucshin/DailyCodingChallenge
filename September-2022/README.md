@@ -1,4 +1,4 @@
-# Problems Solved :: 23
+# Problems Solved :: 24
 September 2022
 
 CodeForces
@@ -14,6 +14,7 @@ BeeCrowd
 1. [Factorial Sum](https://www.beecrowd.com.br/judge/en/problems/view/1161)
 1. [Diamonds and Sand](https://www.beecrowd.com.br/judge/en/problems/view/1069)
 1. [Even Between five Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1065)
+1. [Even, Odd, Positive and Negative](https://www.beecrowd.com.br/judge/en/problems/view/1066)
 
 CodeSignal
 -----------------
