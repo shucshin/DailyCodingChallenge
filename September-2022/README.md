@@ -1,4 +1,4 @@
-# Problems Solved :: 25
+# Problems Solved :: 26
 September 2022
 
 CodeForces
@@ -16,6 +16,7 @@ BeeCrowd
 1. [Even Between five Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1065)
 1. [Even, Odd, Positive and Negative](https://www.beecrowd.com.br/judge/en/problems/view/1066)
 1. [Flying Control](https://www.beecrowd.com.br/judge/en/problems/view/3163)
+1. [Odd Numbers](https://www.beecrowd.com.br/judge/en/problems/view/1067)
 
 CodeSignal
 -----------------
