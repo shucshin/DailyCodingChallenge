@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 September 2022
 
 CodeForces
@@ -25,6 +25,7 @@ CodeSignal
 1. [areEquallyStrong](https://app.codesignal.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL)
 1. [arrayMaximalAdjacentDifference](https://app.codesignal.com/arcade/intro/level-5/EEJxjQ7oo7C5wAGjE)
 1. [isIPv4Address](https://app.codesignal.com/arcade/intro/level-5/veW5xJednTy4qcjso)
+1. [avoidObstacles](https://app.codesignal.com/arcade/intro/level-5/XC9Q2DhRRKQrfLhb5)
 
 HackerRank
 -----------------
