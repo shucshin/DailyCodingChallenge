@@ -1,4 +1,4 @@
-# Problems Solved :: 30
+# Problems Solved :: 32
 September 2022
 
 CodeForces
@@ -6,6 +6,8 @@ CodeForces
 1. [Perfect Permutation](https://codeforces.com/contest/1711/problem/A)
 1. [Image](https://codeforces.com/contest/1721/problem/A)
 1. [Deadly Laser](https://codeforces.com/contest/1721/problem/B)
+1. [Balls in Urn](https://codeforces.com/group/XUEGajCNtd/contest/400072/problem/A)
+1. [The Best among Equals](https://codeforces.com/group/XUEGajCNtd/contest/400072/problem/E)
 
 BeeCrowd
 -----------------
