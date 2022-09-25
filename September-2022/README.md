@@ -1,4 +1,4 @@
-# Problems Solved :: 32
+# Problems Solved :: 33
 September 2022
 
 CodeForces
@@ -50,3 +50,4 @@ omegaUP
 1. [Los Feriapesos](https://omegaup.com/arena/problem/Los-Feriapesos/)
 1. [Tabla para Pastel](https://omegaup.com/arena/problem/Tabla-para-pastel/)
 1. [¿Dónde quedó el primo?](https://omegaup.com/arena/problem/findprime/)
+1. [Ovatsug el rey](https://omegaup.com/arena/problem/Ovatsug-el-rey/)
