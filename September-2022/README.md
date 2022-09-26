@@ -1,4 +1,4 @@
-# Problems Solved :: 33
+# Problems Solved :: 34
 September 2022
 
 CodeForces
@@ -33,6 +33,10 @@ CodeSignal
 HackerRank
 -----------------
 1. [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true)
+
+LeetCode
+-----------------
+1. [Simplify Path](https://leetcode.com/problems/simplify-path/)
 
 Kattis
 -----------------
