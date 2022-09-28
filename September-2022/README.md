@@ -1,4 +1,4 @@
-# Problems Solved :: 34
+# Problems Solved :: 35
 September 2022
 
 CodeForces
@@ -55,3 +55,4 @@ omegaUP
 1. [Tabla para Pastel](https://omegaup.com/arena/problem/Tabla-para-pastel/)
 1. [¿Dónde quedó el primo?](https://omegaup.com/arena/problem/findprime/)
 1. [Ovatsug el rey](https://omegaup.com/arena/problem/Ovatsug-el-rey/)
+1. [7 Maravillas](https://omegaup.com/arena/problem/7-Maravillas/)
