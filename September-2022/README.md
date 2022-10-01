@@ -1,4 +1,4 @@
-# Problems Solved :: 35
+# Problems Solved :: 36
 September 2022
 
 CodeForces
@@ -45,6 +45,7 @@ Kattis
 1. [Shopaholic](https://open.kattis.com/problems/shopaholic)
 1. [Square Peg in a Round Hole](https://open.kattis.com/problems/squarepegs)
 1. [Enlarging Hash Tables](https://open.kattis.com/problems/enlarginghashtables)
+1. [Knigs of the Forest](https://open.kattis.com/problems/knigsoftheforest)
 
 omegaUP
 -----------------
