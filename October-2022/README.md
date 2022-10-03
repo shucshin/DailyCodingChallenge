@@ -1,9 +1,10 @@
-# Problems Solved :: 1
+# Problems Solved :: 3
 October 2022
 
 Codeforces
 -----------------
-1. [Working Week](https://codeforces.com/contest/1735/problem/A#)
+1. [Working Week](https://codeforces.com/contest/1735/problem/A)
+1. [Tea with Tangerines](https://codeforces.com/contest/1735/problem/B)
 
 Virtual Judge
 -----------------
