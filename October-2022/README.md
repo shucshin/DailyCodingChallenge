@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 October 2022
 
 Codeforces
@@ -11,4 +11,8 @@ Virtual Judge
 1. [Bars](https://vjudge.net/problem/UVA-12455)
 1. [Deathstar](https://open.kattis.com/problems/deathstar)
 1. [Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)
+
+Kattis
+-----------------
+1. [iBoard](https://open.kattis.com/problems/iboard)
 
