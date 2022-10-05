@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 October 2022
 
 Codeforces
@@ -15,4 +15,8 @@ Virtual Judge
 Kattis
 -----------------
 1. [iBoard](https://open.kattis.com/problems/iboard)
+
+BeeCrowd
+-----------------
+1. [T-Shirts](https://www.beecrowd.com.br/judge/en/problems/view/1258)
 
