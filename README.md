@@ -1,5 +1,5 @@
 # DailyCodingChallenge
-This is a repository to upload all my daily programming journey along with my permanent competitive programming teammates [Kary-AG](https://github.com/Kary-AG) and [AlbertNath](https://github.com/AlbertNath)
+This is a repository to upload all my daily competitive programming journey to record my improvement progress.
 
 This idea was set to force myself to program every single day which is crucial to become better in less time.
 

@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 October 2022
 
 Codeforces
@@ -19,4 +19,5 @@ Kattis
 BeeCrowd
 -----------------
 1. [T-Shirts](https://www.beecrowd.com.br/judge/en/problems/view/1258)
+1. [Shopping List](https://www.beecrowd.com.br/judge/en/problems/view/2729)
 
