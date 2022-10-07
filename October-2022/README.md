@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 October 2022
 
 Codeforces
@@ -21,3 +21,6 @@ BeeCrowd
 1. [T-Shirts](https://www.beecrowd.com.br/judge/en/problems/view/1258)
 1. [Shopping List](https://www.beecrowd.com.br/judge/en/problems/view/2729)
 
+LeetCode
+-----------------
+1. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
