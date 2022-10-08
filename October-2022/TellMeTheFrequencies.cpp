@@ -16,11 +16,11 @@
 //#include <ext/pb_ds/assoc_container.hpp>
 using namespace std;
 //using namespace __gnu__pbds;
-using ll = long long; // %lld 
+using ll = long long; // %lld
 using ld = long double; // %0.5lf
-using vi = vector<int>; 
+using vi = vector<int>;
 using vvi = vector<vector<int> >;
-using pi = pair<int, int>; // mp(a,b); 
+using pi = pair<int, int>; // mp(a,b);
 using ps = pair<string, string>; // mp(a,b);
 using ti = tuple<int, int, int>; // mt(a,b,c);
 using ts = tuple<string, string, string>; // mt(a,b,c);
@@ -45,7 +45,7 @@ ll lcm(ll a, ll b) {return (a / gcd(a, b)) * b;}
 #define fo(a) find_by_order(a)
 #define ok(a) order_of_key(a)
 // < min to max, > max to min
-bool comparePair(pi a, pi b) {return a.f == b.f ? a.s < b.s : a.f < b.f;} //if(a.f == b.f) return a.s < b.s; return a.f < b.f;}
+bool comparePair(pi a, pi b) {return a.s == b.s ? a.f > b.f : a.s < b.s;} //if(a.f == b.f) return a.s < b.s; return a.f < b.f;}
 bool compareString(str a, str b) {return a.size() == b.size() ? a < b : a.size() < b.size();} //if(a.size() != b.size()) return a.size() < b.size(); return a < b;}
 bool compareTuple(ti a, ti b) {return get<0>(a) == get<0>(b) ? (get<1>(a) == get<1>(b) ? get<2>(a) < get<2>(b) : get<1>(a) < get<1>(b)) : get<0>(a) < get<0>(b);}
 // priority_queue > min to max, < max to min
@@ -58,16 +58,32 @@ void subsetsUtil(vi v, vvi& ans, vi subset, int a) {ans.push_back(subset); rep(i
 vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return ans;}
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 
-void solve() {
-    set<string> dictionary;
-    while(cin) {
-        
+void solve(str a) {
+    map<int,int> m;
+    rep(i,0,a.length()) {
+        int ascii = (int)a[i];
+        m.count(ascii) ? m[ascii]++ : m[ascii] = 1;
+    }
+
+    vector<pi> v;
+    for(pi p : m) {
+        v.push_back(p);
+    }
+    sort(all(v), comparePair);
+    for(pi p : v) {
+        cout << p.f << " " << p.s << endl;
     }
 }
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     //freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout);
-    solve();
+    str a;
+    bool first = true;
+    while(cin >> a) {
+        if(first) first = false;
+        else cout << endl;
+        solve(a);
+    }
     return 0;
 }

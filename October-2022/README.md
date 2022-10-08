@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 October 2022
 
 Codeforces
@@ -20,6 +20,7 @@ BeeCrowd
 -----------------
 1. [T-Shirts](https://www.beecrowd.com.br/judge/en/problems/view/1258)
 1. [Shopping List](https://www.beecrowd.com.br/judge/en/problems/view/2729)
+1. [Tell me the Frequencies!](https://www.beecrowd.com.br/judge/en/problems/view/1251)
 
 LeetCode
 -----------------
