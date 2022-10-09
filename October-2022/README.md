@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 October 2022
 
 Codeforces
@@ -7,6 +7,7 @@ Codeforces
 1. [Tea with Tangerines](https://codeforces.com/contest/1735/problem/B)
 1. [Array Reodering](https://codeforces.com/contest/1535/problem/B)
 1. [Bad Boy](https://codeforces.com/problemset/problem/1537/B)
+1. [PizzaForces](https://codeforces.com/problemset/problem/1555/A)
 
 Virtual Judge
 -----------------
