@@ -1,10 +1,11 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 October 2022
 
 Codeforces
 -----------------
 1. [Working Week](https://codeforces.com/contest/1735/problem/A)
 1. [Tea with Tangerines](https://codeforces.com/contest/1735/problem/B)
+1. [Array Reodering](https://codeforces.com/contest/1535/problem/B)
 
 Virtual Judge
 -----------------
