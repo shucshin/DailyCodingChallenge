@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 October 2022
 
 Codeforces
@@ -8,6 +8,7 @@ Codeforces
 1. [Array Reodering](https://codeforces.com/contest/1535/problem/B)
 1. [Bad Boy](https://codeforces.com/problemset/problem/1537/B)
 1. [PizzaForces](https://codeforces.com/problemset/problem/1555/A)
+1. [String Task](https://codeforces.com/problemset/problem/118/A)
 
 Virtual Judge
 -----------------
