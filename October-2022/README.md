@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 October 2022
 
 Codeforces
@@ -9,6 +9,7 @@ Codeforces
 1. [Bad Boy](https://codeforces.com/problemset/problem/1537/B)
 1. [PizzaForces](https://codeforces.com/problemset/problem/1555/A)
 1. [String Task](https://codeforces.com/problemset/problem/118/A)
+1. [Young Physicist](https://codeforces.com/problemset/problem/69/A)
 
 Virtual Judge
 -----------------
