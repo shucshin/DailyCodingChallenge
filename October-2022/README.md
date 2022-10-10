@@ -1,4 +1,4 @@
-# Problems Solved :: 15
+# Problems Solved :: 16
 October 2022
 
 Codeforces
@@ -10,6 +10,7 @@ Codeforces
 1. [PizzaForces](https://codeforces.com/problemset/problem/1555/A)
 1. [String Task](https://codeforces.com/problemset/problem/118/A)
 1. [Young Physicist](https://codeforces.com/problemset/problem/69/A)
+1. [Finding Maximal Non-Trivial Monotones](https://codeforces.com/gym/103960/problem/A)
 
 Virtual Judge
 -----------------
