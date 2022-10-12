@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 October 2022
 
 Codeforces
@@ -13,6 +13,7 @@ Codeforces
 1. [Finding Maximal Non-Trivial Monotones](https://codeforces.com/gym/103960/problem/A)
 1. [Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
 1. [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A)
+1. [Select Three Sticks](https://codeforces.com/contest/1734/problem/A)
 
 Virtual Judge
 -----------------
