@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 18
 October 2022
 
 Codeforces
@@ -11,6 +11,8 @@ Codeforces
 1. [String Task](https://codeforces.com/problemset/problem/118/A)
 1. [Young Physicist](https://codeforces.com/problemset/problem/69/A)
 1. [Finding Maximal Non-Trivial Monotones](https://codeforces.com/gym/103960/problem/A)
+1. [Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
+1. [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A)
 
 Virtual Judge
 -----------------
