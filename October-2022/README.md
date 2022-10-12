@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 20
 October 2022
 
 Codeforces
@@ -14,6 +14,7 @@ Codeforces
 1. [Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
 1. [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A)
 1. [Select Three Sticks](https://codeforces.com/contest/1734/problem/A)
+1. [Chat room](https://codeforces.com/problemset/problem/58/A)
 
 Virtual Judge
 -----------------
