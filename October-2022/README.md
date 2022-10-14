@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 October 2022
 
 Codeforces
@@ -15,6 +15,7 @@ Codeforces
 1. [Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A)
 1. [Select Three Sticks](https://codeforces.com/contest/1734/problem/A)
 1. [Chat room](https://codeforces.com/problemset/problem/58/A)
+1. [Playing 23](https://codeforces.com/gym/103960/problem/J)
 
 Virtual Judge
 -----------------
