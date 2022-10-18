@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 October 2022
 
 Codeforces
@@ -36,3 +36,7 @@ BeeCrowd
 LeetCode
 -----------------
 1. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+
+CodeSignal
+-----------------
+1. [Box Blur](https://app.codesignal.com/arcade/intro/level-5/5xPitc3yT3dqS7XkP)
