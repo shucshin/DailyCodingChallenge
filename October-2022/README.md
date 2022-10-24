@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 October 2022
 
 Codeforces
@@ -36,6 +36,7 @@ BeeCrowd
 LeetCode
 -----------------
 1. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+1. [Binary Search](https://leetcode.com/problems/binary-search/)
 
 CodeSignal
 -----------------
