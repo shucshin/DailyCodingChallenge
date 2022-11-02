@@ -1,4 +1,4 @@
-# Problems Solved :: 1
+# Problems Solved :: 2
 November 2022
 
 Codeforces
@@ -16,6 +16,7 @@ BeeCrowd
 
 LeetCode
 -----------------
+1. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 CodeSignal
 -----------------
