@@ -64,38 +64,36 @@ int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m =
 void printVec(vvi v) {
     cout << "[";
     for(int i = 0; i < v.size(); i++) {
+        if(i == v.size()-1) {
+            cout << "[" << v[i][0] << "," << v[i][1] << "," << v[i][2] << "]";
+            break;
+        }
         cout << "[" << v[i][0] << "," << v[i][1] << "," << v[i][2] << "], " << endl;
     }
-    cout << "]";
+    cout << "]\n";
 }
 
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<int> org = nums;
         sort(nums.begin(), nums.end());
         vvi ans;
         for(int i = 0; i < nums.size()-2; i++) {
+            if(i > 0 && nums[i-1] == nums[i]) continue;
             int k = -nums[i];
-            cout << k << endl;
             int a = i+1, b = nums.size()-1;
-            /**size 7
-             * 0 1 2 3 4 5 6 
-             *         i a b
-            */
-            while(a <= b) {
+            while(a < b) {
+                if(nums[a] + nums[b] == k) {
+
+                    ans.push_back({nums[i], nums[a], nums[b]});
+                    a++, b--;
+                    while(a < b && nums[a] == nums[a-1]) a++;
+                    while(a < b && nums[b] == nums[b+1]) b--;
+                }
+                // -4 -1 -1 0 1 2
                 if(nums[a] + nums[b] > k) b--;
                 if(nums[a] + nums[b] < k) a++;
-                if(nums[a] + nums[b] == k) break;
             }
-            vi v;
-            for(int j = 0; j < org.size(); j++) {
-                if(org[j] == nums[i]) {v.push_back(nums[i]); continue;}
-                if(org[j] == nums[a]) {v.push_back(nums[i]); continue;}
-                if(org[j] == nums[b]) {v.push_back(nums[i]); continue;}
-            }
-            if(v.size() == 3) ans.push_back(v);
-            v.clear();
         }
         return ans;
     }

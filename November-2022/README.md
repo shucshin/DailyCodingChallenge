@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 November 2022
 
 Codeforces
@@ -20,6 +20,7 @@ LeetCode
 1. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+1. [3Sum](https://leetcode.com/problems/3sum/)
 
 CodeSignal
 -----------------
