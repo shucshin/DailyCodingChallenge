@@ -61,52 +61,33 @@ vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return an
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m = (l+r)/2; v[m] < x ? l = m+1 : r = m-1; if(v[m] == x) return m;} return -1;}
 
-void printVec(vvi v) {
-    cout << "[";
-    for(int i = 0; i < v.size(); i++) {
-        cout << "[" << v[i][0] << "," << v[i][1] << "," << v[i][2] << "], " << endl;
-    }
-    cout << "]";
-}
-
-class Solution {
-public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<int> org = nums;
-        sort(nums.begin(), nums.end());
-        vvi ans;
-        for(int i = 0; i < nums.size()-2; i++) {
-            int k = -nums[i];
-            cout << k << endl;
-            int a = i+1, b = nums.size()-1;
-            /**size 7
-             * 0 1 2 3 4 5 6 
-             *         i a b
-            */
-            while(a <= b) {
-                if(nums[a] + nums[b] > k) b--;
-                if(nums[a] + nums[b] < k) a++;
-                if(nums[a] + nums[b] == k) break;
-            }
-            vi v;
-            for(int j = 0; j < org.size(); j++) {
-                if(org[j] == nums[i]) {v.push_back(nums[i]); continue;}
-                if(org[j] == nums[a]) {v.push_back(nums[i]); continue;}
-                if(org[j] == nums[b]) {v.push_back(nums[i]); continue;}
-            }
-            if(v.size() == 3) ans.push_back(v);
-            v.clear();
-        }
-        return ans;
-    }
-};
-
 void solve() {
-    vi nums1 = {-1,0,1,2,-1,-4}, nums2 = {0,1,1}, nums3 = {0,0,0};
-    Solution sol;
-    printVec(sol.threeSum(nums1));
-    printVec(sol.threeSum(nums2));
-    printVec(sol.threeSum(nums3));
+    int n, ni; cin >> n;
+    stack<int> stk;
+    rep(i,0,n) {
+        cin >> ni;
+        stk.push(ni);
+    }
+    stack<int> temp;
+    
+    while(!stk.empty()) {
+        int hand = stk.top(); stk.pop();
+        if(stk.empty()) {
+            temp.push(hand);
+            break;
+        }
+        if((hand + stk.top())%2 == 0) {
+            stk.pop(); 
+            while(!temp.empty()) {
+                stk.push(temp.top());
+                temp.pop();
+            }
+        }
+        else {
+            temp.push(hand);
+        }
+    }
+    cout << temp.size() << endl;
 }
 
 int main() {

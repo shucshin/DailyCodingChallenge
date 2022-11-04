@@ -81,7 +81,7 @@ public:
 
         for(int i = nums.size() - 1; i >= 0; i--) {
             suffix.insert(suffix.begin(),s *= nums[i]);
-        }
+        } 
 
         vector<int> ans;
         for(int i = 0; i < nums.size(); i++) {

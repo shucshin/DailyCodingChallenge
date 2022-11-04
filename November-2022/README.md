@@ -1,4 +1,4 @@
-# Problems Solved :: 4
+# Problems Solved :: 5
 November 2022
 
 Codeforces
@@ -9,6 +9,7 @@ Virtual Judge
 
 Kattis
 -----------------
+1. [Even Up Solitaire](https://open.kattis.com/problems/evenup)
 
 BeeCrowd
 -----------------
