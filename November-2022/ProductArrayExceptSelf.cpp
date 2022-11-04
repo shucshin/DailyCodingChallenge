@@ -64,7 +64,7 @@ int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m =
 void printVec(vi v) {
     cout << "[";
     for(int i = 0; i < v.size(); i++) {
-        if(i == v.size()-1) {cout << v[i];break;}
+        if(i == v.size()-1) {cout << v[i]; break;}
         cout << v[i] << ",";
     }
     cout << "]" << endl;
@@ -73,16 +73,17 @@ void printVec(vi v) {
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> prefix, suffix;
+        int n = nums.size();
+        vector<int> prefix(n), suffix(n);
         int p = 1, s = 1;
-        for(int i = 0; i < nums.size(); i++) {
+        /*for(int i = 0; i < nums.size(); i++) {
             prefix.push_back(p *= nums[i]);
+            suffix.insert(suffix.begin(),s *= nums[nums.size()-1-i]);
+        }*/
+        for(int i = 0; i < nums.size(); i++) {
+            prefix[i] = p *= nums[i];
+            suffix[n-1-i] = s *= nums[n-1-i];
         }
-
-        for(int i = nums.size() - 1; i >= 0; i--) {
-            suffix.insert(suffix.begin(),s *= nums[i]);
-        } 
-
         vector<int> ans;
         for(int i = 0; i < nums.size(); i++) {
             if(i == 0) {ans.push_back(suffix[i+1]); continue;}

@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 November 2022
 
 Codeforces
@@ -21,6 +21,7 @@ LeetCode
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 1. [3Sum](https://leetcode.com/problems/3sum/)
+1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 CodeSignal
 -----------------
