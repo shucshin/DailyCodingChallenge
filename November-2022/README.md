@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 November 2022
 
 Codeforces
@@ -14,6 +14,7 @@ Kattis
 1. [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)
 1. [Autori](https://open.kattis.com/problems/autori)
 1. [Stacking Cups](https://open.kattis.com/problems/cups)
+1. [Reseto](https://open.kattis.com/problems/reseto)
 
 BeeCrowd
 -----------------
