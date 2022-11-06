@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 11
 November 2022
 
 Codeforces
@@ -10,6 +10,10 @@ Virtual Judge
 Kattis
 -----------------
 1. [Even Up Solitaire](https://open.kattis.com/problems/evenup)
+1. [No Duplicates](https://open.kattis.com/problems/nodup)
+1. [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary)
+1. [Autori](https://open.kattis.com/problems/autori)
+1. [Stacking Cups](https://open.kattis.com/problems/cups)
 
 BeeCrowd
 -----------------

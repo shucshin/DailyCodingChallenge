@@ -61,36 +61,28 @@ vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return an
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m = (l+r)/2; v[m] < x ? l = m+1 : r = m-1; if(v[m] == x) return m;} return -1;}
 
-void printMapSimple(map<string, int> m) {
-    auto last = m.end(); last--;
-    for(auto a = m.begin(); a != m.end(); a++) {
-        if(a == last) {cout << a->first << " " << a->second; break;}
-        cout << a->first << " " << a->second << ", ";
-    }
-}
 
-void printMap(map<string, map<string, int> > ans) {
-    for(auto a : ans) {
-        cout << a.first << " {";
-        printMapSimple(a.second);
-        cout << "}\n";
-    }
-}
 
 void solve() {
-    int m; cin >> m;
-    map<string, map<string, int> > ans;
-    string s, line, word;
-    rep(i,0,m) {
-        cin >> s;
-        getline(cin, line);
-        stringstream ss(line);
-        while(ss >> word) {
-            ans[s][word]++;
+    int n, k; cin >> n >> k;
+    bool prime[n+1];
+    int c = 0;
+    memset(prime, true, sizeof(prime));
+   prime[0] = false, prime[1] = false;
+    for(ll p = 2; p <= n; p++) {
+        if(prime[p] == true) {
+            c++;
+            if(c == k) {cout << p << endl; return;}
+            //cout << p << endl;
+            for(ll i = p*p; i <= n; i+=p) {
+                if(prime[i] == false) {continue;}
+                c++;
+                if(c == k) {cout << i << endl; return;}
+                //cout << i << endl;
+                prime[i] = false;
+            }
         }
     }
-    printMap(ans);
-    
 }
 
 int main() {

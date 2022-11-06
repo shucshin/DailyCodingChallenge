@@ -61,36 +61,48 @@ vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return an
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m = (l+r)/2; v[m] < x ? l = m+1 : r = m-1; if(v[m] == x) return m;} return -1;}
 
-void printMapSimple(map<string, int> m) {
-    auto last = m.end(); last--;
-    for(auto a = m.begin(); a != m.end(); a++) {
-        if(a == last) {cout << a->first << " " << a->second; break;}
-        cout << a->first << " " << a->second << ", ";
-    }
-}
-
-void printMap(map<string, map<string, int> > ans) {
-    for(auto a : ans) {
-        cout << a.first << " {";
-        printMapSimple(a.second);
-        cout << "}\n";
-    }
-}
-
 void solve() {
-    int m; cin >> m;
-    map<string, map<string, int> > ans;
-    string s, line, word;
-    rep(i,0,m) {
-        cin >> s;
-        getline(cin, line);
-        stringstream ss(line);
-        while(ss >> word) {
-            ans[s][word]++;
-        }
+    int n, ti; cin >> n;
+    int required; cin >> required;
+    vi trees(n);
+    bool same = true;
+    rep(i,0,n) {
+        cin >> trees[i];
     }
-    printMap(ans);
-    
+    sort(all(trees), greater<int>());
+    vi diff(n-1);
+    rep(i,0,n-1) {
+        diff[i] = trees[i] - trees[i+1];
+        if(trees[i] != trees[i+1]) same = false;
+    }
+    if(same) {
+        cout << trees[0] - (required/n)<< endl; return;
+    }
+    int c, rem;
+    rep(i,0,n-1) {
+        c = i+1;
+        required -= diff[i] * c;
+        if(required <= 0) {rem = diff[i]*c; break;}
+    }
+
+    /**
+     * diff
+     * 4 5 3 2 6
+     * 1 2 3 4 5
+     * required = 20
+     * 4 10 9 8 30
+     * required = -3
+     * 
+    */
+    //cout << rem << endl;
+    //cout << required << endl;
+    // c is the number is trees being cut
+    // trees[c-1] is the current tree sawblade height
+    // (rem) is the amount that can be cut with c trees before reaching c+1 trees
+    // required is the amount of trees extra that were cut
+    int z = (rem+required)/c;
+    if((rem+required)%c != 0) z++;
+    cout << trees[c-1] - z << endl;
 }
 
 int main() {

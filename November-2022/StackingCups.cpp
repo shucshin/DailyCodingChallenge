@@ -51,7 +51,7 @@ bool compareString(str a, str b) {return a.size() == b.size() ? a < b : a.size()
 bool compareTuple(ti a, ti b) {return get<0>(a) == get<0>(b) ? (get<1>(a) == get<1>(b) ? get<2>(a) < get<2>(b) : get<1>(a) < get<1>(b)) : get<0>(a) < get<0>(b);}
 // priority_queue > min to max, < max to min
 struct comparepq {bool operator() (int a, int b) {return a > b;}};
-struct comparepqPair {bool operator() (pi a, pi b) {return a.f == b.f ? a.s > b.s : a.f > b.f;}};
+struct comparepqPair {bool operator() (pair<int, string> a, pair<int, string> b) {return a.f == b.f ? a.s > b.s : a.f > b.f;}};
 // priority_queue<ti, vector<ti>, comparepqTuple> pq; priority_queue<ts, vector<ts>, comparepqTupleStr> pq;
 struct comparepqTuple {bool operator() (ti a, ti b) {return get<0>(a) == get<0>(b) ? (get<1>(a) == get<1>(b) ? get<2>(a) > get<2>(b) : get<1>(a) > get<1>(b)) : get<0>(a) > get<0>(b);}};
 struct comparepqTupleStr {bool operator() (ts a, ts b) {return get<0>(a) == get<0>(b) ? (get<1>(a) == get<1>(b) ? get<2>(a) > get<2>(b) : get<1>(a) < get<1>(b)) : get<0>(a) > get<0>(b);}};
@@ -60,37 +60,27 @@ void subsetsUtil(vi v, vvi& ans, vi subset, int a) {ans.push_back(subset); rep(i
 vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return ans;}
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m = (l+r)/2; v[m] < x ? l = m+1 : r = m-1; if(v[m] == x) return m;} return -1;}
-
-void printMapSimple(map<string, int> m) {
-    auto last = m.end(); last--;
-    for(auto a = m.begin(); a != m.end(); a++) {
-        if(a == last) {cout << a->first << " " << a->second; break;}
-        cout << a->first << " " << a->second << ", ";
-    }
-}
-
-void printMap(map<string, map<string, int> > ans) {
-    for(auto a : ans) {
-        cout << a.first << " {";
-        printMapSimple(a.second);
-        cout << "}\n";
-    }
-}
+bool isnumber(string a) {rep(i,0,a.length()) {if(!isdigit(a[i])) return false;}return true;}
 
 void solve() {
-    int m; cin >> m;
-    map<string, map<string, int> > ans;
-    string s, line, word;
-    rep(i,0,m) {
-        cin >> s;
-        getline(cin, line);
-        stringstream ss(line);
-        while(ss >> word) {
-            ans[s][word]++;
+    int n; cin >> n;
+    string a, b;
+    priority_queue<pair<int, string>, vector<pair<int, string> >, comparepqPair> pq;
+    int num;
+    rep(i,0,n) {
+        cin >> a >> b;
+        if(isnumber(b)) {
+            num = 2*stoi(b);
+            pq.push(mp(2*stoi(b),a));
+        }
+        else {
+            pq.push(mp(stoi(a), b));
         }
     }
-    printMap(ans);
-    
+    while(!pq.empty()) {
+        cout << pq.top().s << endl;
+        pq.pop();
+    }
 }
 
 int main() {
