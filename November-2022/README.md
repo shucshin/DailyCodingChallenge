@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 November 2022
 
 Codeforces
@@ -19,6 +19,7 @@ Kattis
 BeeCrowd
 -----------------
 1. [Andy's First Dictionary](https://www.beecrowd.com.br/judge/en/problems/view/1215)
+1. [Throwing Cards Away](https://www.beecrowd.com.br/judge/en/problems/view/1110)
 
 LeetCode
 -----------------

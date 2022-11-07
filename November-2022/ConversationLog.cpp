@@ -90,7 +90,6 @@ void solve() {
         }
     }
     printMap(ans);
-    
 }
 
 int main() {
