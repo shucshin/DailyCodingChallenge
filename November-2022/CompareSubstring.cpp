@@ -60,55 +60,29 @@ void subsetsUtil(vi v, vvi& ans, vi subset, int a) {ans.push_back(subset); rep(i
 vvi subsets(vi v) {vi subset; vvi ans; subsetsUtil(v, ans, subset, 0); return ans;}
 //for (int i = 0; i < ans.size(); i++) {for (int j = 0; j < ans[i].size(); j++) {cout << ans[i][j] << " ";}cout << endl;}
 int binarySearch(vi v, int x) {int l = 0, r = v.size()-1; while(r >= l) {int m = (l+r)/2; v[m] < x ? l = m+1 : r = m-1; if(v[m] == x) return m;} return -1;}
+bool isnumber(string a) {rep(i,0,a.length()) {if(!isdigit(a[i])) return false;}return true;}
 
-void solve() {
-    int n, ti; cin >> n;
-    int required; cin >> required;
-    vi trees(n);
-    bool same = true;
-    rep(i,0,n) {
-        cin >> trees[i];
+void solve(string a, string b) {
+    int max = 0;
+    for(int i = 0; i < a.length(); i++) {
+        int j = a.length()-1;
+        while(i <= j) {
+            if(b.find(a.substr(i,j-i+1)) != string::npos) {
+                if(max < j-i+1) max = j-i+1; break;
+            }
+            j--;
+        }
     }
-    sort(all(trees), greater<int>());
-    vi diff(n-1);
-    rep(i,0,n-1) {
-        diff[i] = trees[i] - trees[i+1];
-        if(trees[i] != trees[i+1]) same = false;
-    }
-    if(same) {
-        cout << trees[0] - (required/n)<< endl; return;
-    }
-    int c, rem;
-    rep(i,0,n-1) {
-        c = i+1;
-        required -= diff[i] * c;
-        if(required <= 0) {rem = diff[i]*c; break;}
-    }
-
-    /**
-     * 
-     * diff
-     * 4 5 3 2 6
-     * 1 2 3 4 5
-     * required = 20
-     * 4 10 9 8 30
-     * required = -3
-     * 
-    */
-    //cout << rem << endl;
-    //cout << required << endl;
-    // c is the number is trees being cut
-    // trees[c-1] is the current tree sawblade height
-    // (rem) is the amount that can be cut with c trees before reaching c+1 trees
-    // required is the amount of trees extra that were cut
-    int z = (rem+required)/c;
-    if((rem+required)%c != 0) z++;
-    cout << trees[c-1] - z << endl;
+    cout << max << endl;    
 }
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     //freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout);
-    solve();
+    string a, b;
+    while(getline(cin,a)) {
+        getline(cin,b);
+        solve(a,b);
+    }
     return 0;
 }

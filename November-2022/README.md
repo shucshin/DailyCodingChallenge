@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 14
 November 2022
 
 Codeforces
@@ -20,6 +20,7 @@ BeeCrowd
 -----------------
 1. [Andy's First Dictionary](https://www.beecrowd.com.br/judge/en/problems/view/1215)
 1. [Throwing Cards Away](https://www.beecrowd.com.br/judge/en/problems/view/1110)
+1. [Compare Substring](https://www.beecrowd.com.br/judge/en/problems/view/1237)
 
 LeetCode
 -----------------
