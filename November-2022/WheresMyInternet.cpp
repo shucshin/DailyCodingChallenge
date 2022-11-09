@@ -65,14 +65,41 @@ bool isnumber(string a) {rep(i,0,a.length()) {if(!isdigit(a[i])) return false;}r
  * Check if bit is on (i--) :: 1 & (n >> i);
 */
 
+void bfs(int s, vi graph[], int visited[]) {
+    visited[s] = 1;
+    queue<int> q;
+    q.push(s);
+    while(!q.empty()) {
+        int u = q.front(); q.pop();
+        for(auto v : graph[u]) {
+            if(!visited[v]) {
+                visited[v] = 1;
+                q.push(v);
+            }
+        }
+    }
+}
+
 void solve() {
     int n, m; cin >> n >> m;
     vi graph[n+1];
     int visited[n+1];
+    rep(i,0,n+1) visited[i] = 0;
+
     int u,v;
     rep(i,0,m) {
         cin >> u >> v;
         graph[u].pb(v);
+        graph[v].pb(u);
+    }
+    bfs(1, graph, visited);
+    bool connected = true;
+    rep(i,1,n+1) {
+        if(visited[i] == 0) connected = false;
+    }
+    if(connected) {cout << "Connected" << endl; return;}
+    rep(i,1,n+1) {
+        if(visited[i] == 0) {cout << i << endl;}
     }
 }
 

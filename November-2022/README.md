@@ -1,4 +1,4 @@
-# Problems Solved :: 15
+# Problems Solved :: 16
 November 2022
 
 Codeforces
@@ -16,6 +16,7 @@ Kattis
 1. [Stacking Cups](https://open.kattis.com/problems/cups)
 1. [Reseto](https://open.kattis.com/problems/reseto)
 1. [Eko](https://open.kattis.com/problems/eko)
+1. [Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)
 
 BeeCrowd
 -----------------
