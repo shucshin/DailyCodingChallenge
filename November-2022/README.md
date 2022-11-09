@@ -1,4 +1,4 @@
-# Problems Solved :: 14
+# Problems Solved :: 15
 November 2022
 
 Codeforces
@@ -15,6 +15,7 @@ Kattis
 1. [Autori](https://open.kattis.com/problems/autori)
 1. [Stacking Cups](https://open.kattis.com/problems/cups)
 1. [Reseto](https://open.kattis.com/problems/reseto)
+1. [Eko](https://open.kattis.com/problems/eko)
 
 BeeCrowd
 -----------------
