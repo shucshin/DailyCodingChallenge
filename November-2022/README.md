@@ -1,11 +1,5 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 November 2022
-
-Codeforces
------------------
-
-Virtual Judge
------------------
 
 Kattis
 -----------------
@@ -32,5 +26,6 @@ LeetCode
 1. [3Sum](https://leetcode.com/problems/3sum/)
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-CodeSignal
+omegaUp
 -----------------
+1. [Intercamvio de Regalos](https://omegaup.com/arena/problem/Intercambio-de-Regalos/)
