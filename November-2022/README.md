@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 November 2022
 
 Kattis
@@ -12,6 +12,7 @@ Kattis
 1. [Eko](https://open.kattis.com/problems/eko)
 1. [Where's My Internet??](https://open.kattis.com/problems/wheresmyinternet)
 1. [Conversation Log](https://open.kattis.com/problems/conversationlog)
+1. [Room Painting](https://open.kattis.com/problems/roompainting)
 
 BeeCrowd
 -----------------
