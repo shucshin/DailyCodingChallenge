@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 November 2022
 
 Kattis
@@ -14,6 +14,7 @@ Kattis
 1. [Conversation Log](https://open.kattis.com/problems/conversationlog)
 1. [Room Painting](https://open.kattis.com/problems/roompainting)
 1. [Horror List](https://open.kattis.com/problems/horror)
+1. [Grid](https://open.kattis.com/problems/grid)
 
 BeeCrowd
 -----------------
