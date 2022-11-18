@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 November 2022
 
 Kattis
@@ -15,6 +15,7 @@ Kattis
 1. [Room Painting](https://open.kattis.com/problems/roompainting)
 1. [Horror List](https://open.kattis.com/problems/horror)
 1. [Grid](https://open.kattis.com/problems/grid)
+1. [Sheba's Amoebas](https://open.kattis.com/problems/amoebas)
 
 BeeCrowd
 -----------------
