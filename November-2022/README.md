@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 November 2022
 
 Kattis
@@ -30,6 +30,7 @@ LeetCode
 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 1. [3Sum](https://leetcode.com/problems/3sum/)
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 omegaUp
 -----------------
