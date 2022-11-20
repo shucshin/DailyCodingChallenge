@@ -65,18 +65,18 @@ bool isnumber(string a) {rep(i,0,a.length()) {if(!isdigit(a[i])) return false;}r
  * Check if bit is on (i--) :: 1 & (n >> i);
 */
 
-const int m = 101, n = 101;
-vector<pi> graph[m][n];
+const int x = 101, y = 101;
+vector<pi> graph[x][y];
 
-void clearGraph(vector<pi> graph[m][n]) {
-    rep(i,0,m) {
-        rep(j,0,n) {
+void clearGraph(vector<pi> graph[x][y]) {
+    rep(i,0,x) {
+        rep(j,0,y) {
             graph[i][j].clear();
         }
     }
 }
 
-void bfs(pi s, vector<pi> graph[n][m], vvi &visited) {
+void bfs(pi s, vector<pi> graph[x][y], vvi &visited) {
     visited[s.first][s.second] = 1;
     queue<pi> q;
     q.push(s);
@@ -114,16 +114,6 @@ void solve(int t, int m, int n) {
                     graph[i][j].pb(mp(i-1,j));
                     graph[i-1][j].pb(mp(i,j));
                 }
-                // up left
-                if(i-1 >= 0 && j-1 >= 0 && !graph[i-1][j-1].empty()) {
-                    graph[i][j].pb(mp(i-1,j-1));
-                    graph[i-1][j-1].pb(mp(i,j));
-                }
-                // up right
-                if(i-1 >= 0 && j+1 <= n-1 && !graph[i-1][j+1].empty()) {
-                    graph[i][j].pb(mp(i-1,j+1));
-                    graph[i-1][j+1].pb(mp(i,j));
-                }
             }
         }
     }
@@ -137,6 +127,14 @@ void solve(int t, int m, int n) {
             }
         }
     }
+    /*rep(i,0,m) {
+        rep(j,0,n) {
+            rep(k,0,graph[i][j].size()) {
+                cout << "(" << graph[i][j][k].first << "," << graph[i][j][k].second << ") ";
+            }
+            cout << endl;
+        }
+    }*/
     printf("Case %d: %d\n", t, ans);
 }
 

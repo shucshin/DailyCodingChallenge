@@ -1,4 +1,4 @@
-# Problems Solved :: 23
+# Problems Solved :: 24
 November 2022
 
 Kattis
@@ -16,6 +16,7 @@ Kattis
 1. [Horror List](https://open.kattis.com/problems/horror)
 1. [Grid](https://open.kattis.com/problems/grid)
 1. [Sheba's Amoebas](https://open.kattis.com/problems/amoebas)
+1. [Counting Stars](https://open.kattis.com/problems/countingstars)
 
 BeeCrowd
 -----------------
