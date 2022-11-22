@@ -36,3 +36,10 @@ LeetCode
 omegaUp
 -----------------
 1. [Intercamvio de Regalos](https://omegaup.com/arena/problem/Intercambio-de-Regalos/)
+
+Codeforces
+-----------------
+1. [Medium Number](https://codeforces.com/contest/1760/problem/A)
+1. [Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B)
+1. [Advantage](https://codeforces.com/contest/1760/problem/C)
+1. [Challenging Valleys](https://codeforces.com/contest/1760/problem/D)
