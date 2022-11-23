@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 November 2022
 
 Kattis
@@ -17,6 +17,7 @@ Kattis
 1. [Grid](https://open.kattis.com/problems/grid)
 1. [Sheba's Amoebas](https://open.kattis.com/problems/amoebas)
 1. [Counting Stars](https://open.kattis.com/problems/countingstars)
+1. [Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)
 
 BeeCrowd
 -----------------
