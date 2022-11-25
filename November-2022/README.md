@@ -1,4 +1,4 @@
-# Problems Solved :: 25
+# Problems Solved :: 26
 November 2022
 
 Kattis
@@ -18,6 +18,7 @@ Kattis
 1. [Sheba's Amoebas](https://open.kattis.com/problems/amoebas)
 1. [Counting Stars](https://open.kattis.com/problems/countingstars)
 1. [Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)
+1. [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)
 
 BeeCrowd
 -----------------
