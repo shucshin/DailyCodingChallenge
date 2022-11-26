@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 November 2022
 
 Kattis
@@ -19,6 +19,7 @@ Kattis
 1. [Counting Stars](https://open.kattis.com/problems/countingstars)
 1. [Secret Chamber at Mount Rushmore](https://open.kattis.com/problems/secretchamber)
 1. [Single source shortest path, non-negative weights](https://open.kattis.com/problems/shortestpath1)
+1. [Pairing Socks](https://open.kattis.com/problems/pairingsocks)
 
 BeeCrowd
 -----------------
