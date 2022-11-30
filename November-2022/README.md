@@ -1,4 +1,4 @@
-# Problems Solved :: 29
+# Problems Solved :: 30
 November 2022
 
 Kattis
@@ -37,6 +37,7 @@ LeetCode
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
 omegaUp
 -----------------
