@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 December 2022
 
 LeetCode
@@ -15,3 +15,4 @@ Kattis
 -----------------
 1. [Solving for Carrots](https://open.kattis.com/problems/carrots)
 1. [Betting](https://open.kattis.com/problems/betting)
+1. [Digit Swap](https://open.kattis.com/problems/digitswap)
