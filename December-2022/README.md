@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 December 2022
 
 LeetCode
@@ -19,3 +19,4 @@ Kattis
 1. [Faktor](https://open.kattis.com/problems/faktor)
 1. [GCVWR](https://open.kattis.com/problems/gcvwr)
 1. [Greetings!](https://open.kattis.com/problems/greetings2)
+1. [Symmetric Order](https://open.kattis.com/problems/symmetricorder)
