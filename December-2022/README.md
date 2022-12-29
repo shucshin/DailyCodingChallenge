@@ -1,4 +1,4 @@
-# Problems Solved :: 11
+# Problems Solved :: 12
 December 2022
 
 LeetCode
@@ -20,3 +20,4 @@ Kattis
 1. [GCVWR](https://open.kattis.com/problems/gcvwr)
 1. [Greetings!](https://open.kattis.com/problems/greetings2)
 1. [Symmetric Order](https://open.kattis.com/problems/symmetricorder)
+1. [Hello World!](https://open.kattis.com/problems/hello)
