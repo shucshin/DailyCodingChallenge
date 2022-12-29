@@ -21,3 +21,7 @@ Kattis
 1. [Greetings!](https://open.kattis.com/problems/greetings2)
 1. [Symmetric Order](https://open.kattis.com/problems/symmetricorder)
 1. [Hello World!](https://open.kattis.com/problems/hello)
+
+UVa Online Judge
+-----------------
+1. [Back to High School Physics](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1012)
