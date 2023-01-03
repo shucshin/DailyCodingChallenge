@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 January 2023
 
 Kattis
@@ -10,6 +10,7 @@ Kattis
 1. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)
 1. [Tarifa](https://open.kattis.com/problems/tarifa)
 1. [Moscow Dream](https://open.kattis.com/problems/moscowdream)
+1. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
 
 UVa Online Judge
 -----------------
