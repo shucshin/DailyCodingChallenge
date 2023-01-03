@@ -1,4 +1,4 @@
-# Problems Solved :: 5
+# Problems Solved :: 6
 January 2023
 
 Kattis
@@ -8,6 +8,7 @@ Kattis
 1. [Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)
 1. [A Different Problem](https://open.kattis.com/problems/different)
 1. [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)
+1. [Tarifa](https://open.kattis.com/problems/tarifa)
 
 UVa Online Judge
 -----------------
