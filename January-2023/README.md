@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 9
 January 2023
 
 Kattis
@@ -11,6 +11,7 @@ Kattis
 1. [Tarifa](https://open.kattis.com/problems/tarifa)
 1. [Moscow Dream](https://open.kattis.com/problems/moscowdream)
 1. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
+1. [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 
 UVa Online Judge
 -----------------
