@@ -1,4 +1,4 @@
-# Problems Solved :: 15
+# Problems Solved :: 16
 January 2023
 
 Kattis
@@ -13,6 +13,7 @@ Kattis
 1. [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
 1. [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 1. [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)
+1. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
 
 UVa Online Judge
 -----------------
