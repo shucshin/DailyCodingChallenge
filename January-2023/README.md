@@ -1,4 +1,4 @@
-# Problems Solved :: 17
+# Problems Solved :: 18
 January 2023
 
 Kattis
@@ -15,6 +15,7 @@ Kattis
 1. [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)
 1. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
 1. [Quadrant Selection](https://open.kattis.com/problems/quadrant)
+1. [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)
 
 UVa Online Judge
 -----------------
