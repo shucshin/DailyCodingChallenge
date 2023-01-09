@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 January 2023
 
 Kattis
@@ -14,6 +14,7 @@ Kattis
 1. [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 1. [One Chicken Per Person!](https://open.kattis.com/problems/onechicken)
 1. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
+1. [Quadrant Selection](https://open.kattis.com/problems/quadrant)
 
 UVa Online Judge
 -----------------
