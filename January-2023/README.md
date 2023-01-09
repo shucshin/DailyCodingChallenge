@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 January 2023
 
 Kattis
@@ -16,6 +16,7 @@ Kattis
 1. [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
 1. [Quadrant Selection](https://open.kattis.com/problems/quadrant)
 1. [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)
+1. [Oddities](https://open.kattis.com/problems/oddities)
 
 UVa Online Judge
 -----------------
