@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 21
 January 2023
 
 Kattis
@@ -25,3 +25,5 @@ UVa Online Judge
 1. [Celebrity Jeopardy](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=246&page=show_problem&problem=3565)
 1. [Searching for Nessy](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1985)
 1. [Automatic Answer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2542)
+1. [Relational Operator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2113)
+1. [Language Detection](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3402)
