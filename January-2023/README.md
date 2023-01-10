@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 January 2023
 
 Kattis
@@ -28,3 +28,4 @@ UVa Online Judge
 1. [Automatic Answer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2542)
 1. [Relational Operator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2113)
 1. [Language Detection](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3402)
+1. [Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3794)
