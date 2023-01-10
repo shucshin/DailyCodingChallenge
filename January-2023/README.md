@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 January 2023
 
 Kattis
@@ -17,6 +17,7 @@ Kattis
 1. [Quadrant Selection](https://open.kattis.com/problems/quadrant)
 1. [Time Travelling Temperatures](https://open.kattis.com/problems/temperature)
 1. [Oddities](https://open.kattis.com/problems/oddities)
+1. [Eligibility](https://open.kattis.com/problems/eligibility)
 
 UVa Online Judge
 -----------------
