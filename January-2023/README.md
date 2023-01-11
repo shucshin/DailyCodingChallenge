@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 January 2023
 
 Kattis
@@ -34,3 +34,4 @@ UVa Online Judge
 1. [Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3794)
 1. [Jumping Mario](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2864)
 1. [Horror Dash](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2899)
+1. [Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3431)
