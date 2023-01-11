@@ -1,4 +1,4 @@
-# Problems Solved :: 29
+# Problems Solved :: 30
 January 2023
 
 Kattis
@@ -21,6 +21,7 @@ Kattis
 1. [Help a PhD candidate out!](https://open.kattis.com/problems/helpaphd)
 1. [Left Beehind](https://open.kattis.com/problems/leftbeehind)
 1. [Statistics](https://open.kattis.com/problems/statistics)
+1. [License to Launch](https://open.kattis.com/problems/licensetolaunch)
 
 UVa Online Judge
 -----------------
