@@ -1,4 +1,4 @@
-# Problems Solved :: 30
+# Problems Solved :: 31
 January 2023
 
 Kattis
@@ -22,6 +22,7 @@ Kattis
 1. [Left Beehind](https://open.kattis.com/problems/leftbeehind)
 1. [Statistics](https://open.kattis.com/problems/statistics)
 1. [License to Launch](https://open.kattis.com/problems/licensetolaunch)
+1. [Odd Gnome](https://open.kattis.com/problems/oddgnome)
 
 UVa Online Judge
 -----------------
