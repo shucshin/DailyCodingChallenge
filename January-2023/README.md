@@ -1,4 +1,4 @@
-# Problems Solved :: 35
+# Problems Solved :: 36
 January 2023
 
 Kattis
@@ -24,6 +24,7 @@ Kattis
 1. [License to Launch](https://open.kattis.com/problems/licensetolaunch)
 1. [Odd Gnome](https://open.kattis.com/problems/oddgnome)
 1. [Mia](https://open.kattis.com/problems/mia)
+1. [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)
 
 UVa Online Judge
 -----------------
