@@ -1,4 +1,4 @@
-# Problems Solved :: 32
+# Problems Solved :: 33
 January 2023
 
 Kattis
@@ -38,3 +38,4 @@ UVa Online Judge
 1. [Jumping Mario](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2864)
 1. [Horror Dash](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2899)
 1. [Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3431)
+1. [Love Calculator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1365)
