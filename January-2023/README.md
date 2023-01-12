@@ -1,4 +1,4 @@
-# Problems Solved :: 36
+# Problems Solved :: 37
 January 2023
 
 Kattis
@@ -25,6 +25,7 @@ Kattis
 1. [Odd Gnome](https://open.kattis.com/problems/oddgnome)
 1. [Mia](https://open.kattis.com/problems/mia)
 1. [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)
+1. [Digits](https://open.kattis.com/problems/digits)
 
 UVa Online Judge
 -----------------
