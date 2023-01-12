@@ -1,4 +1,4 @@
-# Problems Solved :: 37
+# Problems Solved :: 38
 January 2023
 
 Kattis
@@ -26,6 +26,7 @@ Kattis
 1. [Mia](https://open.kattis.com/problems/mia)
 1. [Amalgamated Artichokes](https://open.kattis.com/problems/artichoke)
 1. [Digits](https://open.kattis.com/problems/digits)
+1. [Filip](https://open.kattis.com/problems/filip)
 
 UVa Online Judge
 -----------------
