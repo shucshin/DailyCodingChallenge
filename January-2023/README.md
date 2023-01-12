@@ -1,4 +1,4 @@
-# Problems Solved :: 34
+# Problems Solved :: 35
 January 2023
 
 Kattis
@@ -40,3 +40,4 @@ UVa Online Judge
 1. [Emoogle Balance](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3431)
 1. [Love Calculator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1365)
 1. [Open Credit System](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2019)
+1. [Summing Digits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2307)
