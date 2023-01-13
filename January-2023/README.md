@@ -1,4 +1,4 @@
-# Problems Solved :: 40
+# Problems Solved :: 41
 January 2023
 
 Kattis
@@ -46,3 +46,4 @@ UVa Online Judge
 1. [Open Credit System](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2019)
 1. [Summing Digits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2307)
 1. [Score](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4460)
+1. [Sub-prime](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2726)
