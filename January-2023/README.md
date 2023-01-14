@@ -1,4 +1,4 @@
-# Problems Solved :: 43
+# Problems Solved :: 44
 January 2023
 
 Kattis
@@ -29,6 +29,7 @@ Kattis
 1. [Filip](https://open.kattis.com/problems/filip)
 1. [Lost Lineup](https://open.kattis.com/problems/lostlineup)
 1. [ACM Contest Scoring](https://open.kattis.com/problems/acm)
+1. [Cetiri](https://open.kattis.com/problems/cetiri)
 
 UVa Online Judge
 -----------------
