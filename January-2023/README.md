@@ -1,4 +1,4 @@
-# Problems Solved :: 47
+# Problems Solved :: 50
 January 2023
 
 Kattis
@@ -32,6 +32,7 @@ Kattis
 1. [Cetiri](https://open.kattis.com/problems/cetiri)
 1. [Line Them Up](https://open.kattis.com/problems/lineup)
 1. [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
+1. [Batter Up](https://open.kattis.com/problems/batterup)
 
 UVa Online Judge
 -----------------
@@ -53,3 +54,5 @@ UVa Online Judge
 1. [Sub-prime](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2726)
 1. [Google is Feeling Lucky](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3166)
 1. [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3947)
+1. [Character Recognition?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4396)
+1. [Cabin Baggage](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4434)
