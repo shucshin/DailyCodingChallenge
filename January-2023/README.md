@@ -1,4 +1,4 @@
-# Problems Solved :: 45
+# Problems Solved :: 46
 January 2023
 
 Kattis
@@ -31,6 +31,7 @@ Kattis
 1. [ACM Contest Scoring](https://open.kattis.com/problems/acm)
 1. [Cetiri](https://open.kattis.com/problems/cetiri)
 1. [Line Them Up](https://open.kattis.com/problems/lineup)
+1. [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 
 UVa Online Judge
 -----------------
