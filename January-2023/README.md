@@ -1,5 +1,9 @@
-# Problems Solved :: 50
+# Problems Solved :: 52
 January 2023
+
+Codeforces
+-----------------
+1. [The Golden Age](https://codeforces.com/problemset/problem/813/B)
 
 Kattis
 -----------------
@@ -33,6 +37,7 @@ Kattis
 1. [Line Them Up](https://open.kattis.com/problems/lineup)
 1. [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 1. [Batter Up](https://open.kattis.com/problems/batterup)
+1. [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)
 
 UVa Online Judge
 -----------------
