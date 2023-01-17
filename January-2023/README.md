@@ -1,4 +1,4 @@
-# Problems Solved :: 52
+# Problems Solved :: 53
 January 2023
 
 Codeforces
@@ -38,6 +38,7 @@ Kattis
 1. [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
 1. [Batter Up](https://open.kattis.com/problems/batterup)
 1. [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)
+1. [Poker Hand](https://open.kattis.com/problems/pokerhand)
 
 UVa Online Judge
 -----------------
