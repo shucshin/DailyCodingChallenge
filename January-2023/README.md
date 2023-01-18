@@ -1,4 +1,4 @@
-# Problems Solved :: 54
+# Problems Solved :: 56
 January 2023
 
 Codeforces
@@ -63,3 +63,5 @@ UVa Online Judge
 1. [Robot Instructions](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3947)
 1. [Character Recognition?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4396)
 1. [Cabin Baggage](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4434)
+1. [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2595)
+1. [Laser Sculpture](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2730)
