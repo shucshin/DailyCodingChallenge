@@ -1,4 +1,4 @@
-# Problems Solved :: 56
+# Problems Solved :: 57
 January 2023
 
 Codeforces
@@ -65,3 +65,4 @@ UVa Online Judge
 1. [Cabin Baggage](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=4434)
 1. [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2595)
 1. [Laser Sculpture](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2730)
+1. [Global Raining at Bididibus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2886)
