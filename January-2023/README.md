@@ -1,4 +1,4 @@
-# Problems Solved :: 57
+# Problems Solved :: 58
 January 2023
 
 Codeforces
@@ -40,6 +40,7 @@ Kattis
 1. [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout)
 1. [Poker Hand](https://open.kattis.com/problems/pokerhand)
 1. [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea)
+1. [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)
 
 UVa Online Judge
 -----------------
