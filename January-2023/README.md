@@ -1,4 +1,4 @@
-# Problems Solved :: 58
+# Problems Solved :: 59
 January 2023
 
 Codeforces
@@ -41,6 +41,7 @@ Kattis
 1. [Poker Hand](https://open.kattis.com/problems/pokerhand)
 1. [Delicious Bubble Tea](https://open.kattis.com/problems/bubbletea)
 1. [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)
+1. [Popular Vote](https://open.kattis.com/problems/vote)
 
 UVa Online Judge
 -----------------
