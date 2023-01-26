@@ -1,4 +1,4 @@
-# Problems Solved :: 67
+# Problems Solved :: 68
 January 2023
 
 Codeforces
@@ -10,6 +10,7 @@ Codeforces
 1. [George and Accommodation](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/K)
 1. [Polygon Triangles](https://codeforces.com/group/DVzG4G4yZx/contest/422494/problem/A)
 1. [Diary of Hapiness](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/D)
+1. [Queue at the School](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/H)
 
 Kattis
 -----------------
