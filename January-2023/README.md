@@ -1,10 +1,11 @@
-# Problems Solved :: 62
+# Problems Solved :: 63
 January 2023
 
 Codeforces
 -----------------
 1. [The Golden Age](https://codeforces.com/problemset/problem/813/B)
 1. [Hayato and School](https://codeforces.com/contest/1780/problem/A)
+1. [Marathon](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/D)
 
 Kattis
 -----------------
