@@ -1,4 +1,4 @@
-# Problems Solved :: 65
+# Problems Solved :: 66
 January 2023
 
 Codeforces
@@ -8,6 +8,7 @@ Codeforces
 1. [Marathon](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/D)
 1. [Young Physicist](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/H)
 1. [George and Accommodation](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/K)
+1. [Polygon Triangles](https://codeforces.com/group/DVzG4G4yZx/contest/422494/problem/A)
 
 Kattis
 -----------------
