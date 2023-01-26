@@ -1,4 +1,4 @@
-# Problems Solved :: 64
+# Problems Solved :: 65
 January 2023
 
 Codeforces
@@ -7,6 +7,7 @@ Codeforces
 1. [Hayato and School](https://codeforces.com/contest/1780/problem/A)
 1. [Marathon](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/D)
 1. [Young Physicist](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/H)
+1. [George and Accommodation](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/K)
 
 Kattis
 -----------------
