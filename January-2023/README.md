@@ -1,4 +1,4 @@
-# Problems Solved :: 68
+# Problems Solved :: 69
 January 2023
 
 Codeforces
@@ -11,6 +11,7 @@ Codeforces
 1. [Polygon Triangles](https://codeforces.com/group/DVzG4G4yZx/contest/422494/problem/A)
 1. [Diary of Hapiness](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/D)
 1. [Queue at the School](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/H)
+1. [T-primes](https://codeforces.com/group/DVzG4G4yZx/contest/421256/problem/J)
 
 Kattis
 -----------------
