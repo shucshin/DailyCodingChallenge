@@ -1,9 +1,10 @@
-# Problems Solved :: 60
+# Problems Solved :: 62
 January 2023
 
 Codeforces
 -----------------
 1. [The Golden Age](https://codeforces.com/problemset/problem/813/B)
+1. [Hayato and School](https://codeforces.com/contest/1780/problem/A)
 
 Kattis
 -----------------
@@ -69,3 +70,4 @@ UVa Online Judge
 1. [Event Planning](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2595)
 1. [Laser Sculpture](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2730)
 1. [Global Raining at Bididibus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2886)
+1. [Bender B. Rodríguez Problem](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=2502)
