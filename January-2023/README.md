@@ -1,4 +1,4 @@
-# Problems Solved :: 81
+# Problems Solved :: 86
 January 2023
 
 Codeforces
@@ -24,6 +24,11 @@ Codeforces
 1. [Coins](https://codeforces.com/group/DVzG4G4yZx/contest/420863/problem/A)
 1. [Maximum Tree](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/F)
 1. [All Distinct](https://codeforces.com/group/DVzG4G4yZx/contest/422452/problem/L)
+1. [Polycarp and the Day of Pi](https://codeforces.com/contest/1790/problem/A)
+1. [Taisia and Dice](https://codeforces.com/contest/1790/problem/B)
+1. [Premutation](https://codeforces.com/contest/1790/problem/C)
+1. [Matryoshkas](https://codeforces.com/contest/1790/problem/D)
+1. [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E)
 
 Kattis
 -----------------
