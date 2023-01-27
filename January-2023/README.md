@@ -1,4 +1,4 @@
-# Problems Solved :: 69
+# Problems Solved :: 70
 January 2023
 
 Codeforces
@@ -12,6 +12,7 @@ Codeforces
 1. [Diary of Hapiness](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/D)
 1. [Queue at the School](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/H)
 1. [T-primes](https://codeforces.com/group/DVzG4G4yZx/contest/421256/problem/J)
+1. [K-Periodic Array](https://codeforces.com/group/DVzG4G4yZx/contest/422656/problem/I)
 
 Kattis
 -----------------
