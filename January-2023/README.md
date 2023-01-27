@@ -1,4 +1,4 @@
-# Problems Solved :: 80
+# Problems Solved :: 81
 January 2023
 
 Codeforces
@@ -23,6 +23,7 @@ Codeforces
 1. [Next Round](https://codeforces.com/group/DVzG4G4yZx/contest/421122/problem/A)
 1. [Coins](https://codeforces.com/group/DVzG4G4yZx/contest/420863/problem/A)
 1. [Maximum Tree](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/F)
+1. [All Distinct](https://codeforces.com/group/DVzG4G4yZx/contest/422452/problem/L)
 
 Kattis
 -----------------
