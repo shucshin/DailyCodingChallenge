@@ -1,4 +1,4 @@
-# Problems Solved :: 76
+# Problems Solved :: 77
 January 2023
 
 Codeforces
@@ -19,6 +19,7 @@ Codeforces
 1. [Logo](https://codeforces.com/group/DVzG4G4yZx/contest/422453/problem/H)
 1. [Easter Eggs](https://codeforces.com/group/DVzG4G4yZx/contest/422100/problem/A)
 1. [Presents](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/J)
+1. [Counting-out Rhyme](https://codeforces.com/group/DVzG4G4yZx/contest/421339/problem/I)
 
 Kattis
 -----------------
