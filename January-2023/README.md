@@ -1,4 +1,4 @@
-# Problems Solved :: 78
+# Problems Solved :: 79
 January 2023
 
 Codeforces
@@ -21,6 +21,7 @@ Codeforces
 1. [Presents](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/J)
 1. [Counting-out Rhyme](https://codeforces.com/group/DVzG4G4yZx/contest/421339/problem/I)
 1. [Next Round](https://codeforces.com/group/DVzG4G4yZx/contest/421122/problem/A)
+1. [Coins](https://codeforces.com/group/DVzG4G4yZx/contest/420863/problem/A)
 
 Kattis
 -----------------
