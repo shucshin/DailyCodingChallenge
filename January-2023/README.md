@@ -1,4 +1,4 @@
-# Problems Solved :: 72
+# Problems Solved :: 73
 January 2023
 
 Codeforces
@@ -15,6 +15,7 @@ Codeforces
 1. [K-Periodic Array](https://codeforces.com/group/DVzG4G4yZx/contest/422656/problem/I)
 1. [Integer Prefix](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/H)
 1. [Abducting Nathan!](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/J)
+1. [Co-prime Array](https://codeforces.com/group/DVzG4G4yZx/contest/422452/problem/A)
 
 Kattis
 -----------------
