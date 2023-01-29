@@ -1,4 +1,4 @@
-# Problems Solved :: 96
+# Problems Solved :: 97
 January 2023
 
 Codeforces
@@ -34,6 +34,7 @@ Codeforces
 1. [Frog Jumping](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/G)
 1. [Way Too Long Words](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/K)
 1. [Little C Loves 3 I](https://codeforces.com/group/DVzG4G4yZx/contest/421120/problem/H)
+1. [Second Order Statistics](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/E)
 
 Kattis
 -----------------
