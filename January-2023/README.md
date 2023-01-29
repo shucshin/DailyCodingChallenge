@@ -1,4 +1,4 @@
-# Problems Solved :: 95
+# Problems Solved :: 96
 January 2023
 
 Codeforces
@@ -33,6 +33,7 @@ Codeforces
 1. [3D City Model](https://codeforces.com/group/DVzG4G4yZx/contest/421339/problem/C)
 1. [Frog Jumping](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/G)
 1. [Way Too Long Words](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/K)
+1. [Little C Loves 3 I](https://codeforces.com/group/DVzG4G4yZx/contest/421120/problem/H)
 
 Kattis
 -----------------
