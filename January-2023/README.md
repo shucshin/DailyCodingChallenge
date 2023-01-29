@@ -1,4 +1,4 @@
-# Problems Solved :: 88
+# Problems Solved :: 89
 January 2023
 
 Codeforces
@@ -68,6 +68,7 @@ Kattis
 1. [Pea Soup and Pancakes](https://open.kattis.com/problems/peasoup)
 1. [Popular Vote](https://open.kattis.com/problems/vote)
 1. [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)
+1. [Battle Simulation](https://open.kattis.com/problems/battlesimulation)
 
 UVa Online Judge
 -----------------
