@@ -1,4 +1,4 @@
-# Problems Solved :: 90
+# Problems Solved :: 91
 January 2023
 
 Codeforces
@@ -70,6 +70,7 @@ Kattis
 1. [Basic Programming 1](https://open.kattis.com/problems/basicprogramming1)
 1. [Battle Simulation](https://open.kattis.com/problems/battlesimulation)
 1. [Bits Equalizer](https://open.kattis.com/problems/bitsequalizer)
+1. [Fast Food Prizes](https://open.kattis.com/problems/fastfood)
 
 UVa Online Judge
 -----------------
