@@ -1,4 +1,4 @@
-# Problems Solved :: 92
+# Problems Solved :: 93
 January 2023
 
 Codeforces
@@ -30,6 +30,7 @@ Codeforces
 1. [Matryoshkas](https://codeforces.com/contest/1790/problem/D)
 1. [Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E)
 1. [Double it](https://codeforces.com/group/DVzG4G4yZx/contest/422453/problem/D)
+1. [3D City Model](https://codeforces.com/group/DVzG4G4yZx/contest/421339/problem/C)
 
 Kattis
 -----------------
