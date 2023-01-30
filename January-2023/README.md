@@ -1,4 +1,4 @@
-# Problems Solved :: 97
+# Problems Solved :: 98
 January 2023
 
 Codeforces
@@ -35,6 +35,7 @@ Codeforces
 1. [Way Too Long Words](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/K)
 1. [Little C Loves 3 I](https://codeforces.com/group/DVzG4G4yZx/contest/421120/problem/H)
 1. [Second Order Statistics](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/E)
+1. [Ministry of Truth](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/G)
 
 Kattis
 -----------------
