@@ -1,4 +1,4 @@
-# Problems Solved :: 98
+# Problems Solved :: 99
 January 2023
 
 Codeforces
@@ -36,6 +36,7 @@ Codeforces
 1. [Little C Loves 3 I](https://codeforces.com/group/DVzG4G4yZx/contest/421120/problem/H)
 1. [Second Order Statistics](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/E)
 1. [Ministry of Truth](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/G)
+1. [Cardboard Container](https://codeforces.com/group/DVzG4G4yZx/contest/422494/problem/L)
 
 Kattis
 -----------------
