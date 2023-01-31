@@ -1,4 +1,4 @@
-# Problems Solved :: 99
+# Problems Solved :: 100
 January 2023
 
 Codeforces
@@ -37,6 +37,7 @@ Codeforces
 1. [Second Order Statistics](https://codeforces.com/group/DVzG4G4yZx/contest/420859/problem/E)
 1. [Ministry of Truth](https://codeforces.com/group/DVzG4G4yZx/contest/422657/problem/G)
 1. [Cardboard Container](https://codeforces.com/group/DVzG4G4yZx/contest/422494/problem/L)
+1. [Where's the Bishop](https://codeforces.com/group/DVzG4G4yZx/contest/422099/problem/F)
 
 Kattis
 -----------------
