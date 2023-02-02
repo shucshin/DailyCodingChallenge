@@ -1,4 +1,4 @@
-# Problems Solved :: 6
+# Problems Solved :: 7
 February 2023
 
 Codeforces
@@ -9,6 +9,7 @@ Codeforces
 1. [ASCII Addition](https://codeforces.com/group/DVzG4G4yZx/contest/422656/problem/D)
 1. [Chat room](https://codeforces.com/group/DVzG4G4yZx/contest/421255/problem/H)
 1. [Reach Median](https://codeforces.com/group/DVzG4G4yZx/contest/420863/problem/L)
+1. [New Bus Route](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/H)
 
 Kattis
 -----------------
