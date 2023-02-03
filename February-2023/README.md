@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 February 2023
 
 Codeforces
@@ -10,6 +10,7 @@ Codeforces
 1. [Chat room](https://codeforces.com/group/DVzG4G4yZx/contest/421255/problem/H)
 1. [Reach Median](https://codeforces.com/group/DVzG4G4yZx/contest/420863/problem/L)
 1. [New Bus Route](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/H)
+1. [Ghanophobia](https://codeforces.com/group/DVzG4G4yZx/contest/421122/problem/F)
 
 Kattis
 -----------------
