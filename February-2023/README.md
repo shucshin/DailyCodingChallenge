@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 February 2023
 
 Codeforces
@@ -12,6 +12,7 @@ Codeforces
 1. [New Bus Route](https://codeforces.com/group/DVzG4G4yZx/contest/421336/problem/H)
 1. [Ghanophobia](https://codeforces.com/group/DVzG4G4yZx/contest/421122/problem/F)
 1. [Odd/Even Increments](https://codeforces.com/group/DVzG4G4yZx/contest/421255/problem/K)
+1. [Symmetric Matrix](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/F)
 
 Kattis
 -----------------
