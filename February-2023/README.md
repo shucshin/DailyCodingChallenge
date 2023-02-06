@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 February 2023
 
 Codeforces
@@ -14,6 +14,7 @@ Codeforces
 1. [Odd/Even Increments](https://codeforces.com/group/DVzG4G4yZx/contest/421255/problem/K)
 1. [Symmetric Matrix](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/F)
 1. [Enjoyable Entree](https://codeforces.com/gym/104059/problem/E)
+1. [Guess the Number](https://codeforces.com/gym/101021/problem/1)
 
 Kattis
 -----------------
