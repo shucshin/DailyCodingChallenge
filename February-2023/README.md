@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 23
 February 2023
 
 Codeforces
@@ -15,6 +15,7 @@ Codeforces
 1. [Symmetric Matrix](https://codeforces.com/group/DVzG4G4yZx/contest/422493/problem/F)
 1. [Enjoyable Entree](https://codeforces.com/gym/104059/problem/E)
 1. [Guess the Number](https://codeforces.com/gym/101021/problem/1)
+1. [Cakey McCakeFace](https://codeforces.com/group/TbJx9nT1SP/contest/428400/problem/A)
 
 Kattis
 -----------------
@@ -31,3 +32,4 @@ UVa Online Judge
 1. [Chess](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=214)
 1. [Correct Move](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=191)
 1. [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=637)
+1. [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1225)
