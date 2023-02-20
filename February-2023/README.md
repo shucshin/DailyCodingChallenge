@@ -1,4 +1,4 @@
-# Problems Solved :: 23
+# Problems Solved :: 24
 February 2023
 
 Codeforces
@@ -22,6 +22,7 @@ Kattis
 1. [Bela](https://open.kattis.com/problems/bela)
 1. [Shuffling Along](https://open.kattis.com/problems/shuffling)
 1. [Memory Match](https://open.kattis.com/problems/memorymatch)
+1. [Chess](https://open.kattis.com/problems/chess)
 
 UVa Online Judge
 -----------------
