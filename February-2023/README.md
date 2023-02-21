@@ -1,4 +1,4 @@
-# Problems Solved :: 24
+# Problems Solved :: 25
 February 2023
 
 Codeforces
@@ -23,6 +23,7 @@ Kattis
 1. [Shuffling Along](https://open.kattis.com/problems/shuffling)
 1. [Memory Match](https://open.kattis.com/problems/memorymatch)
 1. [Chess](https://open.kattis.com/problems/chess)
+1. [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)
 
 UVa Online Judge
 -----------------
