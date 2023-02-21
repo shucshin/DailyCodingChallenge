@@ -1,4 +1,4 @@
-# Problems Solved :: 26
+# Problems Solved :: 27
 February 2023
 
 Codeforces
@@ -36,3 +36,4 @@ UVa Online Judge
 1. [Correct Move](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=191)
 1. [How Many Knights](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=637)
 1. [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1225)
+1. [Minesweeper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1130)
