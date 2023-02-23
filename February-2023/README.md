@@ -1,4 +1,4 @@
-# Problems Solved :: 28
+# Problems Solved :: 29
 February 2023
 
 Codeforces
@@ -38,3 +38,7 @@ UVa Online Judge
 1. [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1225)
 1. [Minesweeper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1130)
 1. [Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=430)
+
+LeetCode
+-----------------
+1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
