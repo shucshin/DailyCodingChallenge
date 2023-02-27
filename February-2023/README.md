@@ -1,4 +1,4 @@
-# Problems Solved :: 29
+# Problems Solved :: 33
 February 2023
 
 Codeforces
@@ -42,3 +42,10 @@ UVa Online Judge
 LeetCode
 -----------------
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+RPC
+-----------------
+1. [Silver Star Stands Alone](https://redprogramacioncompetitiva.com/contests/2023/01/team/run.php)
+1. [Burizon Fort](https://redprogramacioncompetitiva.com/contests/2023/01/team/run.php)
+1. [Terrace Hill](https://redprogramacioncompetitiva.com/contests/2023/01/team/run.php)
+1. [Cyanide Rivers](https://redprogramacioncompetitiva.com/contests/2023/01/team/run.php)
