@@ -1,4 +1,4 @@
-# Problems Solved :: 33
+# Problems Solved :: 36
 February 2023
 
 Codeforces
@@ -25,6 +25,7 @@ Kattis
 1. [Chess](https://open.kattis.com/problems/chess)
 1. [Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh)
 1. [Help Me With The Game](https://open.kattis.com/problems/helpme)
+1. [Jolly Jumpers](https://open.kattis.com/problems/jollyjumpers)
 
 UVa Online Judge
 -----------------
@@ -38,6 +39,8 @@ UVa Online Judge
 1. [Chessboard in FEN](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1225)
 1. [Minesweeper](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1130)
 1. [Hangman Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=430)
+1. [Pole Position](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3302)
+1. [Splitting Numbers](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=3084)
 
 LeetCode
 -----------------
