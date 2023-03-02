@@ -9,8 +9,9 @@ Codeforces
 1. [Remove Two Letters](https://codeforces.com/contest/1800/problem/D)
 1. [Unforgivable Curse](https://codeforces.com/contest/1800/problem/E2)
 
-Kattis
+AtCoder
 -----------------
+1. [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
 
 
 UVa Online Judge
