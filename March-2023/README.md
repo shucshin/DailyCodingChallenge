@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 March 2023
 
 Codeforces
