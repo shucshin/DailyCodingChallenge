@@ -1,4 +1,4 @@
-# Problems Solved :: 8
+# Problems Solved :: 10
 March 2023
 
 Codeforces
@@ -8,6 +8,8 @@ Codeforces
 1. [Powering the Hero](https://codeforces.com/contest/1800/problem/C2)
 1. [Remove Two Letters](https://codeforces.com/contest/1800/problem/D)
 1. [Unforgivable Curse](https://codeforces.com/contest/1800/problem/E2)
+1. [Walking Master](https://codeforces.com/contest/1806/problem/A)
+1. [Mex Master](https://codeforces.com/contest/1806/problem/B)
 
 AtCoder
 -----------------
