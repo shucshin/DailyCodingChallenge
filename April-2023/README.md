@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 8
 April 2022
 
 CodeForces
@@ -13,3 +13,7 @@ CodeForces
 Kattis
 -----------------
 1. [Convex Hull](https://open.kattis.com/problems/convexhull)
+
+LeetCode
+
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
