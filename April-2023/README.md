@@ -1,4 +1,4 @@
-# Problems Solved :: 10
+# Problems Solved :: 11
 April 2022
 
 CodeForces
@@ -11,6 +11,7 @@ CodeForces
 1. [Just Eat It!](https://codeforces.com/contest/1285/problem/B)
 1. [Good Numbers](https://codeforces.com/contest/1249/problem/C1)
 1. [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D)
+1. [Dividing the numbers](https://codeforces.com/contest/899/problem/C)
 
 Kattis
 -----------------
