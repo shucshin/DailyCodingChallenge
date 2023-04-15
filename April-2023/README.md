@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 10
 April 2022
 
 CodeForces
@@ -10,6 +10,7 @@ CodeForces
 1. [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B)
 1. [Just Eat It!](https://codeforces.com/contest/1285/problem/B)
 1. [Good Numbers](https://codeforces.com/contest/1249/problem/C1)
+1. [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D)
 
 Kattis
 -----------------
