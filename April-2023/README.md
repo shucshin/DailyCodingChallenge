@@ -1,4 +1,4 @@
-# Problems Solved :: 13
+# Problems Solved :: 16
 April 2022
 
 CodeForces
@@ -14,6 +14,9 @@ CodeForces
 1. [Dividing the numbers](https://codeforces.com/contest/899/problem/C)
 1. [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A)
 1. [Steps](https://codeforces.com/contest/152/problem/B)
+1. [Average Walk](https://codeforces.com/gym/104120/problem/A)
+1. [Company Layoffs](https://codeforces.com/gym/104120/problem/C)
+1. [Keypad Repetitions](https://codeforces.com/gym/104120/problem/K)
 
 Kattis
 -----------------
