@@ -1,4 +1,4 @@
-# Problems Solved :: 12
+# Problems Solved :: 13
 April 2022
 
 CodeForces
@@ -13,6 +13,7 @@ CodeForces
 1. [Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D)
 1. [Dividing the numbers](https://codeforces.com/contest/899/problem/C)
 1. [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A)
+1. [Steps](https://codeforces.com/contest/152/problem/B)
 
 Kattis
 -----------------
