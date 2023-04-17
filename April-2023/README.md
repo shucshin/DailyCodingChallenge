@@ -1,4 +1,4 @@
-# Problems Solved :: 16
+# Problems Solved :: 17
 April 2022
 
 CodeForces
@@ -17,6 +17,7 @@ CodeForces
 1. [Average Walk](https://codeforces.com/gym/104120/problem/A)
 1. [Company Layoffs](https://codeforces.com/gym/104120/problem/C)
 1. [Keypad Repetitions](https://codeforces.com/gym/104120/problem/K)
+1. [Verse For Santa](https://codeforces.com/contest/1279/problem/B)
 
 Kattis
 -----------------
