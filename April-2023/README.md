@@ -1,4 +1,4 @@
-# Problems Solved :: 18
+# Problems Solved :: 19
 April 2022
 
 CodeForces
@@ -19,6 +19,7 @@ CodeForces
 1. [Keypad Repetitions](https://codeforces.com/gym/104120/problem/K)
 1. [Verse For Santa](https://codeforces.com/contest/1279/problem/B)
 1. [Oh Those Palindromes](https://codeforces.com/contest/1063/problem/A)
+1. [Maximal AND](https://codeforces.com/contest/1669/problem/H)
 
 Kattis
 -----------------
