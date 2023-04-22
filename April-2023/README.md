@@ -1,4 +1,4 @@
-# Problems Solved :: 19
+# Problems Solved :: 21
 April 2022
 
 CodeForces
@@ -20,6 +20,7 @@ CodeForces
 1. [Verse For Santa](https://codeforces.com/contest/1279/problem/B)
 1. [Oh Those Palindromes](https://codeforces.com/contest/1063/problem/A)
 1. [Maximal AND](https://codeforces.com/contest/1669/problem/H)
+1. [Tear It Apart](https://codeforces.com/contest/1821/problem/C)
 
 Kattis
 -----------------
@@ -28,3 +29,4 @@ Kattis
 LeetCode
 -----------------
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
