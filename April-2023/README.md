@@ -1,4 +1,4 @@
-# Problems Solved :: 21
+# Problems Solved :: 22
 April 2022
 
 CodeForces
@@ -21,6 +21,7 @@ CodeForces
 1. [Oh Those Palindromes](https://codeforces.com/contest/1063/problem/A)
 1. [Maximal AND](https://codeforces.com/contest/1669/problem/H)
 1. [Tear It Apart](https://codeforces.com/contest/1821/problem/C)
+1. [Not Afraid](https://codeforces.com/contest/787/problem/B)
 
 Kattis
 -----------------
