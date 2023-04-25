@@ -1,4 +1,4 @@
-# Problems Solved :: 22
+# Problems Solved :: 27
 April 2022
 
 CodeForces
@@ -22,6 +22,11 @@ CodeForces
 1. [Maximal AND](https://codeforces.com/contest/1669/problem/H)
 1. [Tear It Apart](https://codeforces.com/contest/1821/problem/C)
 1. [Not Afraid](https://codeforces.com/contest/787/problem/B)
+1. [TubeTube Feed](https://codeforces.com/problemset/problem/1822/A)
+1. [Karina and Array](https://codeforces.com/problemset/problem/1822/B)
+1. [Bun Lover](https://codeforces.com/problemset/problem/1822/C)
+1. [Super-Permutation](https://codeforces.com/problemset/problem/1822/D)
+1. [Making Anti-Palindromes](https://codeforces.com/contest/1822/problem/E)
 
 Kattis
 -----------------
