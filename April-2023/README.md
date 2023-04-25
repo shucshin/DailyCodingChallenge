@@ -1,4 +1,4 @@
-# Problems Solved :: 27
+# Problems Solved :: 28
 April 2022
 
 CodeForces
@@ -27,6 +27,7 @@ CodeForces
 1. [Bun Lover](https://codeforces.com/problemset/problem/1822/C)
 1. [Super-Permutation](https://codeforces.com/problemset/problem/1822/D)
 1. [Making Anti-Palindromes](https://codeforces.com/contest/1822/problem/E)
+1. [JoJo's Incredible Adventures](https://codeforces.com/problemset/problem/1820/B)
 
 Kattis
 -----------------
