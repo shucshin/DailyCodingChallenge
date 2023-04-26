@@ -1,4 +1,4 @@
-# Problems Solved :: 30
+# Problems Solved :: 31
 April 2022
 
 CodeForces
@@ -30,6 +30,7 @@ CodeForces
 1. [JoJo's Incredible Adventures](https://codeforces.com/problemset/problem/1820/B)
 1. [Yura's New Name](https://codeforces.com/problemset/problem/1820/A)
 1. [Matching](https://codeforces.com/problemset/problem/1821/A)
+1. [Sort the Subarray](https://codeforces.com/problemset/problem/1821/B)
 
 Kattis
 -----------------
