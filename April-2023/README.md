@@ -1,4 +1,4 @@
-# Problems Solved :: 31
+# Problems Solved :: 32
 April 2022
 
 CodeForces
@@ -31,6 +31,7 @@ CodeForces
 1. [Yura's New Name](https://codeforces.com/problemset/problem/1820/A)
 1. [Matching](https://codeforces.com/problemset/problem/1821/A)
 1. [Sort the Subarray](https://codeforces.com/problemset/problem/1821/B)
+1. [And Then There Were K](https://codeforces.com/contest/1527/problem/A)
 
 Kattis
 -----------------
