@@ -1,4 +1,4 @@
-# Problems Solved :: 32
+# Problems Solved :: 36
 April 2022
 
 CodeForces
@@ -32,6 +32,10 @@ CodeForces
 1. [Matching](https://codeforces.com/problemset/problem/1821/A)
 1. [Sort the Subarray](https://codeforces.com/problemset/problem/1821/B)
 1. [And Then There Were K](https://codeforces.com/contest/1527/problem/A)
+1. [XOR Mixup](https://codeforces.com/problemset/problem/1698/A)
+1. [XORwice](https://codeforces.com/problemset/problem/1421/A)
+1. [Min Or Sum](https://codeforces.com/problemset/problem/1635/A)
+1. [Cirno's Perfect Bitmasks Classroom](https://codeforces.com/problemset/problem/1688/A)
 
 Kattis
 -----------------
