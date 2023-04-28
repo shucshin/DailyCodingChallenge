@@ -1,4 +1,4 @@
-# Problems Solved :: 40
+# Problems Solved :: 43
 April 2022
 
 CodeForces
@@ -40,6 +40,9 @@ CodeForces
 1. [New Year and Old Property](https://codeforces.com/contest/611/problem/B)
 1. [Letters Shop](https://codeforces.com/contest/1187/problem/B)
 1. [MIN-MEX Cut](https://codeforces.com/problemset/problem/1566/B)
+1. [NIT orz!](https://codeforces.com/problemset/problem/1696/A)
+1. [Social Network](https://codeforces.com/contest/1234/problem/B2)
+1. [Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C)
 
 Kattis
 -----------------
