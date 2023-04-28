@@ -1,4 +1,4 @@
-# Problems Solved :: 36
+# Problems Solved :: 40
 April 2022
 
 CodeForces
@@ -36,6 +36,10 @@ CodeForces
 1. [XORwice](https://codeforces.com/problemset/problem/1421/A)
 1. [Min Or Sum](https://codeforces.com/problemset/problem/1635/A)
 1. [Cirno's Perfect Bitmasks Classroom](https://codeforces.com/problemset/problem/1688/A)
+1. [Build a Contest](https://codeforces.com/contest/1100/problem/B)
+1. [New Year and Old Property](https://codeforces.com/contest/611/problem/B)
+1. [Letters Shop](https://codeforces.com/contest/1187/problem/B)
+1. [MIN-MEX Cut](https://codeforces.com/problemset/problem/1566/B)
 
 Kattis
 -----------------
