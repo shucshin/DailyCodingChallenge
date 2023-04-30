@@ -1,4 +1,4 @@
-# Problems Solved :: 43
+# Problems Solved :: 51
 April 2022
 
 CodeForces
@@ -43,6 +43,14 @@ CodeForces
 1. [NIT orz!](https://codeforces.com/problemset/problem/1696/A)
 1. [Social Network](https://codeforces.com/contest/1234/problem/B2)
 1. [Madoka and Formal Statement](https://codeforces.com/contest/1717/problem/C)
+1. [Politics](https://codeforces.com/contest/1818/problem/A)
+1. [Indivisible](https://codeforces.com/contest/1818/problem/B)
+1. [A Very Hard Question](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/A)
+1. [Linear Algebra Test](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/B)
+1. [Dice Game](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/D)
+1. [The Architect Omar](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/E)
+1. [Building Numbers](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/F)
+1. [Eyad and Math](https://codeforces.com/group/TbJx9nT1SP/contest/430835/problem/H)
 
 Kattis
 -----------------
