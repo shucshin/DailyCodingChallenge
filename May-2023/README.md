@@ -1,6 +1,8 @@
-# Problems Solved :: 1
+# Problems Solved :: 3
 May 2023
 
 CodeForces
 -----------------
 1. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
+1. [Fedor and New Game](https://codeforces.com/problemset/problem/467/B)
+1. [Mocha and Math](https://codeforces.com/problemset/problem/1559/A)
