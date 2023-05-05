@@ -1,4 +1,4 @@
-# Problems Solved :: 7
+# Problems Solved :: 9
 May 2023
 
 CodeForces
@@ -10,3 +10,5 @@ CodeForces
 1. [Almost Ternary Matrix](https://codeforces.com/problemset/problem/1699/B)
 1. [MEXor Mixup](https://codeforces.com/contest/1567/problem/B)
 1. [Roof Construction](https://codeforces.com/problemset/problem/1632/B)
+1. [MAX-MEX Cut](https://codeforces.com/problemset/problem/1566/C)
+1. [Sushi for Two](https://codeforces.com/problemset/problem/1138/A)
