@@ -1,4 +1,4 @@
-# Problems Solved :: 20
+# Problems Solved :: 21
 May 2023
 
 CodeForces
@@ -19,6 +19,7 @@ CodeForces
 1. [Gold Rush](https://codeforces.com/contest/1829/problem/D)
 1. [The Lakes](https://codeforces.com/contest/1829/problem/E)
 1. [Tavas and SaDDas](https://codeforces.com/problemset/problem/535/B)
+1. [Special Numbers](https://codeforces.com/problemset/problem/1594/B)
 
 RPC
 -----------------
