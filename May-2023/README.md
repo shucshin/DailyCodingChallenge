@@ -1,4 +1,4 @@
-# Problems Solved :: 9
+# Problems Solved :: 20
 May 2023
 
 CodeForces
@@ -12,3 +12,17 @@ CodeForces
 1. [Roof Construction](https://codeforces.com/problemset/problem/1632/B)
 1. [MAX-MEX Cut](https://codeforces.com/problemset/problem/1566/C)
 1. [Sushi for Two](https://codeforces.com/problemset/problem/1138/A)
+1. [K-divisible Sum](https://codeforces.com/contest/1476/problem/A)
+1. [Love Story](https://codeforces.com/contest/1829/problem/A)
+1. [Blank Space](https://codeforces.com/contest/1829/problem/B)
+1. [Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C)
+1. [Gold Rush](https://codeforces.com/contest/1829/problem/D)
+1. [The Lakes](https://codeforces.com/contest/1829/problem/E)
+1. [Tavas and SaDDas](https://codeforces.com/problemset/problem/535/B)
+
+RPC
+-----------------
+1. [Bubble-bubble Sort](https://redprogramacioncompetitiva.com/contests/2023/05/team/run.php)
+1. [Coffe Cup Combo](https://redprogramacioncompetitiva.com/contests/2023/05/team/run.php)
+1. [Dickensian Dictionary](https://redprogramacioncompetitiva.com/contests/2023/05/team/run.php)
+1. [Highest Hill](https://redprogramacioncompetitiva.com/contests/2023/05/team/run.php)
